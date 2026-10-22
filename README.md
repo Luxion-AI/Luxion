@@ -1,223 +1,207 @@
 <!--
-  ✦ LUXION.EXE — PIXEL WORLD EDITION ✦
-  GitHub Profile README
-  Replace YOUR_GITHUB_USERNAME and project links before publishing.
+  ♡ LUXION'S KAWAII PIXEL PARADISE ♡
+  Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB7D5,50:DCC6FF,100:BDE0FE&height=8" width="100%" alt="Pixel pastel divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,20:FFC8DD,40:FFD6E7,65:E7C6FF,85:CDB4DB,100:BDE0FE&height=240&section=header&text=%E2%99%A1%20LUXION%20%E2%99%A1&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=%E2%9C%A7%20welcome%20to%20my%20pixel%20dreamland%20%E2%9C%A7&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Luxion's pastel pixel dreamland"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=800&color=FF85B3&center=true&vCenter=true&width=650&height=60&lines=%E2%99%A1+HELLOOO%2C+WORLD!!+%E2%99%A1;%E2%9C%A7+MEOW+MEOW+CODING+TIME+%E2%9C%A7;%E2%99%A1+FULLSTACK+MAGIC+ACTIVATED+%E2%99%A1;%E2%98%81%EF%B8%8F+LOADING+MORE+KAWAII...+%E2%98%81%EF%B8%8F" alt="Kawaii pixel typing animation"/>
 
 ```text
-██╗     ██╗   ██╗██╗  ██╗██╗ ██████╗ ███╗   ██╗
-██║     ██║   ██║╚██╗██╔╝██║██╔═══██╗████╗  ██║
-██║     ██║   ██║ ╚███╔╝ ██║██║   ██║██╔██╗ ██║
-██║     ╚██╗ ██╔╝ ██╔██╗ ██║██║   ██║██║╚██╗██║
-███████╗ ╚████╔╝ ██╔╝ ██╗██║╚██████╔╝██║ ╚████║
-╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+      /\_/\
+     ( o.o )    ♡ PLS BE GENTLE ♡
+      > ^ <
+   ╭━━━━━━━━━━━━━━━━━━━━━━╮
+   ┃  WELCOME, CUTIEEE!!  ┃
+   ┃  ☆*:.｡.o(≧▽≦)o.｡.:*☆ ┃
+   ╰━━━━━━━━━━━━━━━━━━━━━━╯
 ```
 
-### `♡` FULLSTACK DEVELOPER • LINUX ENTHUSIAST • SYSTEM BUILDER `♡`
+**꒰ა ♡ ໒꒱ FULLSTACK DEVELOPER ꒰ა ♡ ໒꒱**
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=900&color=FF9ECF&center=true&vCenter=true&width=650&height=60&lines=%3E+BOOTING+LUXION.EXE...;%3E+LOADING+DEVELOPER+SKILLS...;%3E+BUILDING+THE+FUTURE%2C+ONE+PIXEL+AT+A+TIME;%3E+SYSTEM+ONLINE+%E2%99%A1" alt="Pixel-style terminal animation"/>
+`୨୧` Linux Witch · Code Fairy · Pixel Cat Enthusiast `୨୧`
 
-`[ LV. 11+ ]` &nbsp; `CLASS: FULLSTACK ENGINEER` &nbsp; `GUILD: ACPTeam`
+<img src="https://img.shields.io/badge/♡%20STATUS-ONLINE%20AND%20ADORABLE-ffb7d5?style=for-the-badge&labelColor=fff0f6" alt="Online status"/> <img src="https://img.shields.io/badge/♡%20CLASS-FULLSTACK%20MAGICIAN-dcc6ff?style=for-the-badge&labelColor=fff0f6" alt="Developer class"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB7D5,50:DCC6FF,100:BDE0FE&height=8" width="100%" alt="Pixel pastel divider"/>
+*૮꒰ ˶• ༝ •˶꒱ა ♡*
 
-**꒰ა ♡ ໒꒱**
-
-*Welcome to my little corner of the digital universe.*
-
-*Cute pixels. Serious engineering. Infinite curiosity.*
-
-[ `EXPLORE MY WORLD` ](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories) &nbsp; [ `VIEW MY QUESTS` ](https://github.com/YOUR_GITHUB_USERNAME?tab=stars)
+**I make the internet a little more magical, one line of code at a time!**
 
 </div>
 
 ---
 
-## `01 // PLAYER PROFILE`
-
-```text
-╔══════════════════════════════════════╗
-║        ✦ CHARACTER PROFILE ✦        ║
-╠══════════════════════════════════════╣
-║  NAME       : Luxion                 ║
-║  CLASS      : Fullstack Developer    ║
-║  GUILD      : ACPTeam Development    ║
-║  SPECIALTY  : Web & Digital Systems  ║
-║  ALIGNMENT  : Linux / Open Source    ║
-║  PASSION    : Building Things        ║
-║  STATUS     : Always Learning ♡      ║
-╚══════════════════════════════════════╝
-```
-
-Hewwo, fellow internet traveler! ฅ^•ﻌ•^ฅ
-
-I'm a student developer who enjoys building digital products that are not only visually delightful but also functional, maintainable, and thoughtfully engineered.
-
-I work across the stack, from crafting user interfaces to designing APIs, working with databases, configuring development environments, and exploring deployment workflows.
-
-My goal isn't just to make things work. I want to understand **why they work, how they scale, and how to make them better.**
-
-- 🎀 **Frontend:** Interactive, responsive, accessible user experiences.
-- ⚙️ **Backend:** APIs, business logic, authentication, and data processing.
-- 🗃️ **Databases:** Relational data modeling, SQL, and persistence.
-- 🐧 **Systems:** Linux, terminal workflows, package management, and developer tooling.
-- 🤖 **AI engineering:** Agentic workflows, local LLMs, and AI-assisted development.
-- 🎮 **Experiments:** Browser games, creative coding, and interactive applications.
-
-```text
-    /\_/\
-   ( o.o )   < meow! compiling another idea...
-    > ^ <
-```
-
-## `02 // SKILL TREE`
-
 <div align="center">
 
-*Choose your specialization, little adventurer.*
+## 🎀 ୨୧ MY TINY LITTLE UNIVERSE ୨୧ 🎀
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="190" alt="Coding cat"/>
 
 </div>
 
-### ♡ Web Development
-
 ```text
-╔══ FRONTEND MAGIC ═══════════════════╗
-║ HTML5 · CSS3 · JavaScript · ES6+    ║
-║ TypeScript · React · Next.js        ║
-║ Responsive UI · Accessibility       ║
-║ Animation · Performance · UX        ║
-╚═════════════════════════════════════╝
-
-╔══ BACKEND ENGINEERING ══════════════╗
-║ PHP · Node.js · Python              ║
-║ REST APIs · Validation · Auth       ║
-║ Server-side Logic · Integration     ║
-╚═════════════════════════════════════╝
-
-╔══ DATA & INFRASTRUCTURE ════════════╗
-║ PostgreSQL · MySQL · SQLite         ║
-║ Git · GitHub · Docker               ║
-║ Linux · Bash · Deployment           ║
-╚═════════════════════════════════════╝
+╭─────────────── ♡ ───────────────╮
+       ✧ CHARACTER PROFILE ✧
+╞═════════════════════════════════╡
+  ♡ NAME     : Luxion
+  ♡ CLASS    : Fullstack Developer
+  ♡ GUILD    : ACPTeam Development
+  ♡ HOME     : Arch Linux + Hyprland
+  ♡ PASSION  : Making cool things
+  ♡ MANA     : Unlimited curiosity
+  ♡ WEAKNESS : Bugs at 3 AM
+  ♡ FAVORITE : Pink pixels & clean code
+╰─────────────── ♡ ───────────────╯
 ```
 
-<div align="center">
+Hewwooo!! I'm Luxion, a student developer who loves building useful digital products, exploring Linux, experimenting with AI, and making technology more delightful! ฅ(˶ᵔ ᵕ ᵔ˶)ฅ
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=light" alt="Frontend technology icons"/>
+I enjoy working across the full development stack: from designing cute interfaces to implementing backend logic, connecting databases, and figuring out how everything runs in production.
 
-<img src="https://skillicons.dev/icons?i=php,nodejs,python,postgres,mysql,sqlite,docker&theme=light" alt="Backend and database technology icons"/>
+**My mission?** Build software that is adorable on the outside, thoughtfully engineered on the inside, and genuinely useful to the people who use it. 💗
 
-<img src="https://skillicons.dev/icons?i=linux,arch,bash,git,github,vscode,neovim&theme=light" alt="Linux and developer tooling icons"/>
+`♡` Web applications & digital ecosystems
 
-</div>
+`♡` Backend APIs & database design
 
-### ♡ Engineering mindset
+`♡` Linux, open source & system tinkering
 
-```text
-[UNLOCKED]  Component-based architecture
-[UNLOCKED]  API and database integration
-[UNLOCKED]  Git-based development workflows
-[UNLOCKED]  Linux development environment
-[UNLOCKED]  Responsive interface development
+`♡` AI agents & local AI experiments
 
-[TRAINING]  System design & scalability
-[TRAINING]  Automated testing & CI/CD
-[TRAINING]  AI agent architecture
-[TRAINING]  Advanced security practices
-```
-
-*These are areas of practice, not a claim of mastery in every technology. The strongest proof of skill is working software, good engineering decisions, and projects people can actually use.*
+`♡` Browser games & interactive experiences
 
 ---
 
-## `03 // QUEST LOG`
+<div align="center">
+
+## 🍓 ୨୧ MY SKILL BENTO ୨୧ 🍓
+
+*Tiny icons, serious engineering! (๑˃ᴗ˂)ﻭ*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB7D5&height=3" width="85%" alt="Pink divider"/>
+
+### 🎀 FRONTEND FAIRY
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=light" alt="Frontend skill icons"/>
+
+`HTML` ♡ `CSS` ♡ `JavaScript` ♡ `TypeScript`
+
+`React` ♡ `Next.js` ♡ `Tailwind CSS` ♡ `Vite`
+
+*Making pixels dance and interfaces sparkle!* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DCC6FF&height=3" width="85%" alt="Lavender divider"/>
+
+### 🧁 BACKEND ALCHEMIST
+
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,postgres,mysql,sqlite&theme=light" alt="Backend and database skill icons"/>
+
+`PHP` ♡ `Node.js` ♡ `Python`
+
+`PostgreSQL` ♡ `MySQL` ♡ `SQLite`
+
+*Turning data into something useful, safely and reliably!* 🪄
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=BDE0FE&height=3" width="85%" alt="Blue divider"/>
+
+### 🐈‍⬛ LINUX WITCHCRAFT
+
+<img src="https://skillicons.dev/icons?i=linux,arch,bash,git,github,docker,neovim&theme=light" alt="Linux and tooling skill icons"/>
+
+`Arch Linux` ♡ `Bash` ♡ `Git`
+
+`GitHub` ♡ `Docker` ♡ `Neovim`
+
+*Summoning packages, taming terminals, and debugging the mysterious!* 🌙
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFC8DD&height=3" width="85%" alt="Pink divider"/>
+
+### 🤖 CYBER FAIRY LAB
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,blender,unity&theme=light" alt="AI and creative exploration icons"/>
+
+`AI Experiments` ♡ `Local LLMs`
+
+`Game Development` ♡ `Creative Coding`
+
+*Researching new spells for the future of technology!* 💫
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB7D5&height=3" width="100%" alt="Pink pixel divider"/>
+## 🐾 ୨୧ MY QUEST BOARD ୨୧ 🐾
 
-### ✧ MAIN QUESTS ✧
+*Every project is a new adventure!*
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### `QUEST_001`
+### 🌷 QUEST 01
 
-**🏫 School Digital Ecosystem**
+**SCHOOL DIGITAL WORLD**
 
-`TYPE: FULLSTACK / PRODUCT`
+`[ WEB APPLICATION ]`
 
-Designing practical digital experiences for school communities, from student-facing portals to administrative workflows.
+A connected digital ecosystem for school communities, with student services, administrative workflows, and better user experiences.
 
-`FOCUS`
+`UI/UX` ♡ `Fullstack` ♡ `Systems`
 
-- Information architecture
-- User experience
-- Role-based workflows
-- Maintainable web systems
+**♡ RANK: SYSTEM BUILDER ♡**
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### `QUEST_002`
+### 📚 QUEST 02
 
-**📚 Digital Library**
+**MAGICAL DIGITAL LIBRARY**
 
-`TYPE: WEB APPLICATION`
+`[ EDUCATION TECH ]`
 
-A reading platform concept focused on accessible learning materials and straightforward content management.
+A student-friendly reading platform for educational documents, digital resources, and content management.
 
-`STACK`
+`PHP` ♡ `PostgreSQL` ♡ `JavaScript`
 
-- PHP 8+
-- PostgreSQL
-- Native JavaScript
-- Document integration
+**♡ RANK: KNOWLEDGE KEEPER ♡**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### `QUEST_003`
+### 🪄 QUEST 03
 
-**🤖 LUXION AI**
+**LUXION AI**
 
-`TYPE: AI / SYSTEMS`
+`[ PERSONAL AI AGENT ]`
 
-An experimental personal desktop assistant concept exploring local intelligence and computer interaction.
+An experimental personal assistant exploring local AI, voice interaction, computer automation, and intelligent workflows.
 
-`RESEARCH`
+`Python` ♡ `Local LLMs` ♡ `Linux`
 
-- Local LLMs
-- Voice interfaces
-- Tool orchestration
-- Hybrid AI workflows
+**♡ RANK: CYBER WIZARD ♡**
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### `QUEST_004`
+### 🎮 QUEST 04
 
-**🎮 Pixel Game Laboratory**
+**PIXEL GAME LAB**
 
-`TYPE: CREATIVE CODING`
+`[ GAME DEVELOPMENT ]`
 
-Building small browser games with focused mechanics, retro visuals, and responsive controls.
+Small browser games with retro visuals, responsive controls, thoughtful mechanics, and a lot of pixel love.
 
-`STACK`
+`HTML` ♡ `CSS` ♡ `Vanilla JS`
 
-- HTML5
-- CSS
-- Vanilla JavaScript
-- Game logic and animation
+**♡ RANK: PIXEL ENCHANTER ♡**
 
 </td>
 </tr>
@@ -225,128 +209,160 @@ Building small browser games with focused mechanics, retro visuals, and responsi
 
 <div align="center">
 
-`[ 4 QUEST ARCHETYPES ]` &nbsp; `MORE ADVENTURES LOADING...`
+`☆ QUESTS ARE PROJECT DIRECTIONS — LINK YOUR REAL REPOSITORIES HERE ☆`
 
 </div>
 
-*The quests above describe project directions. Link each one to its real repository when the corresponding project is ready to showcase.*
-
 ---
-
-## `04 // CURRENT LOADOUT`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arch,linux,bash,git,docker,postgres,js,ts,python&theme=light" alt="Developer loadout"/>
+## 🍰 ୨୧ MY DEVELOPER DESKTOP ୨୧ 🍰
+
+*Welcome to my little pink computer!*
 
 </div>
 
 ```text
-╭─────────────────────────────────────────╮
-│             EQUIPMENT MENU              │
-├─────────────────────────────────────────┤
-│ [01] OS          Arch Linux             │
-│ [02] DESKTOP     Hyprland               │
-│ [03] GPU         NVIDIA RTX 4050 Laptop │
-│ [04] WORKFLOW    Terminal + Git         │
-│ [05] DATABASE    PostgreSQL             │
-│ [06] EDITION     BUILD & EXPERIMENT     │
+╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+┃  ♡ LUXION OS — PIXEL DESKTOP ♡   ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                  ┃
+┃   [📁] Projects     [💾] Database┃
+┃                                  ┃
+┃   [🌐] Browser      [⚙️] Terminal┃
+┃                                  ┃
+┃   [🤖] AI Lab       [🎮] Games   ┃
+┃                                  ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  ♡ ARCH LINUX · HYPRLAND ♡       ┃
+┃  STATUS: READY TO BUILD!          ┃
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+```
+
+```bash
+$ whoami
+luxion
+
+$ cat /etc/motd
+♡ welcome home, little developer ♡
+
+$ git status
+On branch: building-the-future
+Working tree: full of possibilities
+
+$ npm run build
+✨ turning ideas into reality...
+```
+
+My development environment is part of my playground. I enjoy customizing Linux, learning the tools beneath the surface, optimizing workflows, and exploring how hardware and software work together.
+
+**Cute desktop, powerful workflow.** That's the dream. (˶˃ ᵕ ˂˶)
+
+---
+
+<div align="center">
+
+## 💗 ୨୧ THE GITHUB CANDY ARCADE ୨୧ 💗
+
+*Collect commits, level up, and grow your garden!*
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=omni&hide_border=true&rank_icon=github" width="95%" alt="GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=omni&hide_border=true&langs_count=8" width="80%" alt="Programming language stats"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=omni&hide_border=true" width="95%" alt="GitHub streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=fff0f6&color=d65b91&line=c084fc&point=ff85b3&area=true&hide_border=true" width="100%" alt="GitHub activity garden"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧸 ୨୧ THE TINY PIXEL PET ୨୧ 🧸
+
+*Your friendly neighborhood debugging cat!*
+
+```text
+            /\_/\
+           / o o \
+          (   "   )
+           \~♡♡♡~/
+          /|     |\
+         (_|     |_)
+           |_____| 
+          /_______\
+
+     ♡ meow! another bug defeated ♡
+```
+
+</div>
+
+```text
+╭──────────── PIXEL PET STATUS ────────────╮
+│                                         │
+│  HAPPINESS  [♥♥♥♥♥♥♥♥♥♥] MAXIMUM        │
+│  CURIOSITY  [♥♥♥♥♥♥♥♥♥♥] MAXIMUM        │
+│  DEBUGGING  [♥♥♥♥♥♥♥♥♥░] LOADING...     │
+│  COFFEE     [♥♥♥♥♥♥♥░░░] NEED REFILL    │
+│                                         │
+│  SPECIAL MOVE: git commit -m "meow"     │
 ╰─────────────────────────────────────────╯
 ```
 
-My development environment is part of the craft. I enjoy understanding my tools, customizing Linux, optimizing workflows, and learning what happens beneath the interface.
-
-I prefer tools that solve real problems, systems that remain understandable, and software that doesn't needlessly waste resources.
-
 ---
-
-## `05 // GITHUB ARCADE`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=omni&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=omni&hide_border=true&langs_count=8" width="49%" alt="Most-used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=omni&hide_border=true" width="70%" alt="Contribution streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1025&color=ffb7d5&line=d9a5ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
-
-</div>
+## 🎀 ୨୧ MY CODING SPELLBOOK ୨୧ 🎀
 
 ```text
-ACHIEVEMENT TRACKER
-──────────────────────────────────
-[♡] Keep learning new technologies
-[♡] Build useful products
-[♡] Contribute consistently
-[♡] Improve code quality
-[♡] Share knowledge with others
-[ ] Ship more polished open-source projects
-[ ] Build something people love
+♡ clean code over clever chaos
+♡ good architecture over quick patches
+♡ security over shortcuts
+♡ performance over unnecessary bloat
+♡ real projects over empty promises
+♡ curiosity over fear of the unknown
 ```
 
-*Stats are dynamic and may not load if a third-party service is unavailable. Your contribution history and actual repositories are the real scoreboard.*
+**I want my software to be as thoughtful as it is beautiful.**
+
+The pink pixels are just the wrapping. The engineering is the gift. 💝
 
 ---
 
-## `06 // DEVELOPER PHILOSOPHY`
-
-<div align="center">
-
-```text
-    .  *  .       +       .  *  .
-        /\_/\
-       ( >.< )     PIXEL HEARTS,
-        > ♡ <      SOLID CODE.
-    +       .   *        .      +
-
-   LESS BLOAT. MORE PURPOSE.
-   LESS HYPE. MORE ENGINEERING.
-   LESS COPYING. MORE UNDERSTANDING.
-```
-
-</div>
-
-**My development principles:**
-
-- **Quality over quantity.** A finished, maintainable project beats ten unfinished demos.
-- **Understand the fundamentals.** Frameworks are tools; engineering judgment matters more.
-- **Performance is a feature.** Fast, responsive software is part of good UX.
-- **Security is not decoration.** Validate inputs, protect credentials, and respect user data.
-- **Build for real people.** The best interface is the one people can actually use.
-- **Stay curious.** Learn new things without chasing every trend.
-
----
-
-## `07 // CONNECT TO PLAYER`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════╗
-║       ♡ PLAYER CONNECTION ♡      ║
-║                                  ║
-║  Wanna build something together? ║
-║  Let's turn ideas into software! ║
-║                                  ║
-║       [ CONNECTION OPEN ]        ║
-╚══════════════════════════════════╝
-```
+## 💌 ୨୧ LET'S BE INTERNET FRIENDS! ୨୧ 💌
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-FFB7D5?style=for-the-badge&logo=github&logoColor=392542" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-FFB7D5?style=for-the-badge&logo=github&logoColor=6D3B55" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-DCC6FF?style=for-the-badge&logo=linkedin&logoColor=392542" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-DCC6FF?style=for-the-badge&logo=linkedin&logoColor=6D3B55" alt="LinkedIn"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=FFB7D5&label=PIXEL+VISITORS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=FFB7D5&label=VISITORS%20♡" alt="Profile visitors"/>
 
-*Thanks for visiting my pixel world!* ♡
+```text
+╭──────────────────────────────────╮
+│                                  │
+│   THANK YOU FOR VISITING!! ♡     │
+│                                  │
+│   (づ｡◕‿‿◕｡)づ ♡ HUGS FOR YOU ♡  │
+│                                  │
+│   YOU ARE A RARE DROP! ✧         │
+│   +9999 KAWAII POINTS             │
+│                                  │
+│   [ CONTINUE YOUR ADVENTURE ]    │
+│                                  │
+╰──────────────────────────────────╯
+```
 
-`INSERT COIN TO CONTINUE` &nbsp; `♥ ♥ ♥`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,30:FFC8DD,60:E7C6FF,100:BDE0FE&height=170&section=footer&text=%E2%99%A1%20stay%20cute%2C%20keep%20coding%20%E2%99%A1&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Kawaii pixel dreamland footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7D5,50:DCC6FF,100:BDE0FE&height=110&section=footer" width="100%" alt="Pastel pixel-world footer"/>
+<sub>♡ handcrafted with love, logic, terminal commands, and approximately one million imaginary pink hearts ♡</sub>
 
-<sub>Made with curiosity, terminal commands, and an unreasonable amount of pink. ♡</sub>
+**おつかれさま！ (｡˃ ᵕ ˂ )ﾉﾞ** 🎀
 
 </div>
