@@ -1,309 +1,428 @@
-# 🎀 ૮꒰ ˶• ༝ •˶꒱ა LUXION.EXE // PINK CAT PARADISE OS v4.05 ₊˚⊹♡
+# 🎀 MISSION: CREATE THE CUTEST DEVELOPER GITHUB README EVER ฅ(≧ω≦)ฅ
 
+You are an elite GitHub profile designer, Markdown artist, pixel-art enthusiast, and experienced software engineer.
 
+Your mission is to **directly create or improve my GitHub profile `README.md` into the CUTEST, MOST UNHINGED, MAXIMUM-KAWAII PIXEL-ART DEVELOPER PROFILE EVER CREATED.**
 
+Do not just suggest ideas. Do not just show me a template in the chat. Inspect the available project files, identify the correct GitHub profile repository if possible, and actually implement the finished README.
 
+## 1. THE CORE VISION 💗
 
-    
+I want my GitHub profile to look like:
 
-> **꒰ა ♡ SYSTEM BOOT NOTIFICATION ♡ ໒꒱**
-> `Welcome to Luxion's secret digital garden! Outside: ૮꒰ ˶• ༝ •˶꒱ა ♡ PINK CAT PARADISE ♡. Inside: Full-stack engineering, databases, APIs, Arch Linux, system architecture, and midnight AI experiments!`
+- A magical pink pixel-art desktop from a cute retro RPG.
+- A kawaii anime girl's personal coding diary.
+- A pink cat-themed operating system interface.
+- A Y2K internet aesthetic mixed with pixel games, Sanrio-inspired cuteness, and nostalgic 2000s web design.
+- A developer's secret digital garden full of cats, bows, sparkles, hearts, strawberries, stars, flowers, and tiny magical creatures.
 
-```text
-✧･ﾟ: *✧･ﾟ:*  ꒰ა 🎀 NekoOS v4.05-hypr :: BOOTLOADER & DIARY SPLASH 🎀 ໒꒱  *:･ﾟ✧*:･ﾟ✧
-====================================================================================
- [  OK  ] Mounted /dev/strawberry-milk0  -> /home/luxion/digital-garden   🍓🌸✨
- [  OK  ] Started Hyprland Compositor    -> pastel-pixel-shaders.glsl     ☁️🎀💖
- [  OK  ] Initialized NVIDIA RTX 4050    -> Local LLM & Creative Sandbox  🤖⚡🧁
- [  OK  ] Connected Guild Uplink         -> ACPTeam Development [LEADER]  👑🐾🌟
+**ABSOLUTELY DO NOT prioritize corporate professionalism, minimalism, or formal presentation over cuteness.**
 
-        /\_____/\     ₊˚⊹♡  "Nyaa~ Welcome to my personal pixel computer!
-       /  o   o  \          Don't let the pink ribbons and strawberries fool you:
-      ( ==  ^  == )         underneath this Y2K desktop live real REST APIs,
-       )  >🍓<   (          relational database schemas, Linux dotfiles, and
-      (           )         battle-tested full-stack code! ฅ(≧ω≦)ฅ ♡"
-     ( (  )   (  ) )
-    (__(__)___(__)__)       🏆 ACHIEVEMENT UNLOCKED :: [Visited Pink Cat Paradise!]
-====================================================================================
-```
+I do not care about formality.
 
-## ꒰ა 🎀 ໒꒱ 01 // PLAYER_CARD.DAT — The Kawaii RPG Character Sheet ₊˚⊹♡
+I WANT MAXIMUM KAWAII.
 
-> **📖 PERSONAL CODING DIARY ENTRY #001:**
-> `I'm a developer and technical experimenter who happens to love retro pixel worlds, Sanrio-inspired pastel palettes, and Y2K web aesthetics. My terminal is pink, my compositor is tiled, and my code is built to actually work!` ₍^. .^₎⟆
+Make it overwhelmingly cute, playful, expressive, colorful, chaotic in a carefully designed way, and full of personality.
 
-| 🍓 **RPG ATTRIBUTE** | 💗 **EQUIPPED IDENTITY & LORE** | ✨ **STATUS** |
-| :--- | :--- | :--- |
-| **👾 Player Alias** | **Luxion** (`luxion@neko-arch`) | `🟢 ONLINE & BUILDING` |
-| **👑 Character Class** | **Full-Stack Developer & Team Leader** | `⚔️ PARTY LEADER` |
-| **🏰 Guild / Organization** | **ACPTeam Development** | `🛡️ LEAD ARCHITECT` |
-| **🌸 Home Realm** | Student Developer from [SMK Negeri 1 Purbalingga](https://smkn1purbalingga.sch.id/), Indonesia | `🗺️ CENTRAL JAVA (UTC+7)` |
-| **🐧 Operating System** | [Arch Linux](https://archlinux.org/) + [Hyprland](https://hypr.land/) Dynamic Tiling Compositor | `💎 DOTFILES RICED` |
-| **💻 Spellcasting Rig** | **COLORFUL P15 23** · Intel Core i5 (12th Gen) · NVIDIA RTX 4050 Laptop GPU | `⚡ CUDA READY` |
-| **🎒 Equipped Inventory** | `🍓 Strawberry Milk` · `🎀 Pixel Keycaps` · `🍄 Neovim & VS Code` · `⭐ Git Wand` | `🎒 INVENTORY: 100% CUTE` |
-| **🤖 AI Familiar Pact** | I use **AI coding agents** as tools, but I care deeply about understanding, building, experimenting, and improving real software | `🧠 HUMAN IN COMMAND` |
+However, the technical content must still communicate that I am a capable developer who builds real software.
 
-```yaml
-# ୨୧ ══════════════════ LUXION_CHARACTER_SHEET.YAML ══════════════════ ୨୧
-character_card:
-  alias: "Luxion"
-  title: "Pink Pixel Cat Architect & Full-Stack Engineer"
-  guild: "ACPTeam Development"
-  academy_origin: "SMK Negeri 1 Purbalingga, Indonesia"
+The desired contrast is:
 
-  signature_palette:
-    cotton_candy_pink: "#FFB7D5"
-    strawberry_milk:   "#FFC8DD"
-    lavender_dream:    "#DCC6FF"
-    powder_blue:       "#BDE0FE"
-    cream_white:       "#FFF8FC"
-    dark_plum_text:    "#35243F"
-    berry_pink_accent: "#E879AC"
+**OUTSIDE:** `૮꒰ ˶• ༝ •˶꒱ა ♡ PINK CAT PARADISE ♡`
 
-  what_drives_me:
-    - "Designing and building full-stack web apps from database schema to pixel-polished UI"
-    - "Leading team architecture, code structure, and collaborative builds at ACPTeam Development"
-    - "Running local LLMs and orchestrating AI agents on my RTX 4050 while understanding every line"
-    - "Tinkering with Arch Linux, Hyprland, cybersecurity labs, 2D game loops, and hardware"
-```
+**INSIDE:** Full-stack engineering, databases, APIs, Linux, system architecture, AI experiments, deployment, and actual projects.
 
-## ꒰ა 🌸 ໒꒱ 02 // SKILL_TREE.RPG — Magical Technical Grimoire ₊˚⊹♡
+Think of a highly capable engineer whose entire digital world has been taken over by a kawaii pixel cat.
 
-> **✨ HONEST PROGRESSION SYSTEM:**
-> `No fake "100% Master of Everything" bars here! My grimoire separates what I actively build with every week, what I've experimented with in prototypes, and what I'm currently studying.` (づ｡◕‿‿◕｡)づ
+## 2. MY DEVELOPER IDENTITY 💻
 
-| 🎀 **SKILL TIER** | 🔋 **MANA BAR** | 📖 **WHAT THIS TIER MEANS IN PRACTICE** |
-| :--- | :--- | :--- |
-| **`★ ACTIVE LOADOUT`** | `[████████░░] EQUIPPED` | Core technologies I actively use in real projects, team builds, and my daily Linux workflow |
-| **`✦ EXPERIMENTED`** | `[██████░░░░] UNLOCKED` | Frameworks, engines, and tools I have hands-on experience prototyping and tinkering with |
-| **`✧ STILL LEARNING`** | `[████░░░░░░] STUDYING` | Deeper systems, security, shader, and hardware topics I am actively exploring |
+Use the following information as the foundation of my profile:
 
-### 🌷 Branch I · Frontend Engineering & Pixel-Polished Interfaces
+- Alias: Luxion
+- Role: Full-stack developer and team leader
+- Organization: ACPTeam Development
+- Student developer from SMK Negeri 1 Purbalingga, Indonesia
+- Interests: Web development, backend engineering, frontend design, databases, Linux, open source, AI agents, local LLMs, cybersecurity, game development, hardware experimentation, and creative coding.
+- Development environment: Arch Linux and Hyprland.
+- Laptop: COLORFUL P15 23, Intel Core i5 12th generation, NVIDIA RTX 4050 Laptop GPU.
+- Development style: I use AI coding agents as tools, but I care about understanding, building, experimenting, and improving actual software.
 
+Do not make my student identity the main focus. My identity as a developer and technical experimenter should take center stage.
 
+Do not invent professional experience, awards, expertise levels, achievements, production deployments, project URLs, or contributions that have not been verified.
 
-* **★ Actively Used:** Semantic HTML5, Modern CSS3, JavaScript (ES6+), TypeScript, React, Tailwind CSS, Responsive Component Design & Custom Aesthetic UIs
-* **✦ Experimented With:** Next.js, Vite, Client State Management, Retro Y2K / Pixel-Art CSS Layouts & Interactive Web Animations
-* **✧ Still Learning:** Advanced Web Accessibility, HTML5 Canvas / WebGL Shaders & High-Frame-Rate UI Micro-Interactions
+## 3. PIXEL-ART AESTHETIC: NO COMPROMISE 🎮
 
-### 🍓 Branch II · Backend Engineering & API Architecture
+Make pixel art the dominant visual language throughout the README.
 
+### Color palette
 
+Use a coordinated palette such as:
 
-* **★ Actively Used:** Node.js, Express.js, Python, PHP, RESTful API Design, JWT & Session Authentication, Modular MVC & Service-Layer Architecture
-* **✦ Experimented With:** Laravel, FastAPI, WebSockets & Real-Time Event Handling, Webhook Pipelines & Third-Party API Integrations
-* **✧ Still Learning:** Go (Golang), GraphQL Schema Design, Distributed Systems Patterns & High-Concurrency Backend Services
+- Cotton candy pink: `#FFB7D5`
+- Strawberry milk: `#FFC8DD`
+- Lavender dream: `#DCC6FF`
+- Powder blue: `#BDE0FE`
+- Cream white: `#FFF8FC`
+- Dark plum: `#35243F`
+- Berry pink: `#E879AC`
 
-### 🧁 Branch III · Databases & Crystal Data Persistence
+Use dark plum or another readable dark color for text on light backgrounds.
 
+Pink and lavender should dominate. Blue should be a secondary accent.
 
+### Visual elements
 
-* **★ Actively Used:** [PostgreSQL](https://www.postgresql.org/), MySQL / MariaDB, SQLite, Relational Schema Modeling, Foreign-Key Integrity & SQL Query Optimization
-* **✦ Experimented With:** Prisma ORM, Redis In-Memory Caching, MongoDB Document Stores & Supabase Backend-as-a-Service
-* **✧ Still Learning:** Query Execution Plan Analysis, Advanced Indexing Internals & Vector Databases for Local AI Retrieval
+Use as many of these as appropriate:
 
-### 🐧 Branch IV · Linux & System Tooling (Arch + Hyprland Habitat)
+- Pixel cats and kittens.
+- Pixel bows and ribbons.
+- Pixel hearts and sparkles.
+- Pixel strawberries, flowers, clouds, stars, and mushrooms.
+- Retro desktop windows.
+- Fake operating system dialogs.
+- Pixel-art terminal windows.
+- Cute loading bars and progress indicators.
+- RPG character sheets.
+- Inventory menus and skill trees.
+- Achievement notifications.
+- Quest boards.
+- Tiny ASCII pets.
+- Retro computer interfaces.
+- Pixel dividers and decorative borders.
+- Cute animated GIFs.
+- Pixel-art banners.
+- Retro status panels.
+- Kawaii badge collections.
+- Nostalgic internet graphics.
 
+Use decorative text such as:
 
+`꒰ა ♡ ໒꒱`
 
-* **★ Actively Used:** [Arch Linux](https://archlinux.org/), [Hyprland](https://hypr.land/) Wayland Compositor, Bash / Zsh Scripting, Git CLI, Systemd Services, Pacman / AUR & VS Code
-* **✦ Experimented With:** Neovim Lua Configuration, Waybar / Kitty / Rofi Custom Rice, Linux Process & Network Diagnostics (`journalctl`, `htop`, `ss`)
-* **✧ Still Learning:** Linux Kernel Parameter Tuning, Custom Wayland IPC Scripting & Automated System Recovery
+`૮꒰ ˶• ༝ •˶꒱ა`
 
-### ☁️ Branch V · DevOps, Containers & Deployment Rituals
+`₊˚⊹♡`
 
+`୨୧`
 
+`₍^. .^₎⟆`
 
-* **★ Actively Used:** GitHub Team Workflows (Branching Strategies, Pull Request Reviews & Issue Triage for **ACPTeam Development**), Environment Isolation
-* **✦ Experimented With:** Docker & Docker Compose Containers, Nginx Reverse Proxies, GitHub Actions CI Workflows & Cloud Preview Deployments
-* **✧ Still Learning:** Zero-Downtime Container Orchestration, Linux Server Hardening & Automated Release Pipelines
+`(づ｡◕‿‿◕｡)づ`
 
-### 🤖 Branch VI · AI Agents, Local LLMs & Automation
+`ฅ^•ﻌ•^ฅ`
 
+`✧･ﾟ: *✧･ﾟ:*`
 
+`♡₊˚ 🐾・₊✧`
 
-* **★ Actively Used:** AI Coding Agent Collaboration (Human-Architected & Human-Verified), Prompt & Context Structuring, Local LLM Inference on RTX 4050
-* **✦ Experimented With:** Tool-Calling Agent Scripts, Quantized Local Model Benchmarking, Automated Codebase Analysis & Shell Workflows
-* **✧ Still Learning:** Multi-Agent Coordination, Retrieval-Augmented Generation (RAG) Pipelines & Model Fine-Tuning Basics
+Create an aesthetic that feels lovingly handmade rather than assembled from generic GitHub badges.
 
-### 🎮 Branch VII · Game Development, Creative Coding & Hardware Lab
+Do not use the same cat ASCII art in every section. Introduce different visual motifs to give the page variety.
 
+## 4. DESIGN THE README LIKE AN INTERACTIVE PIXEL WORLD 🌸
 
+Structure the profile as if visitors are exploring my personal RPG world.
 
-* **★ Actively Used:** Creative Coding Sketches, 2D Pixel-Art Asset Integration & Interactive Browser Experiments
-* **✦ Experimented With:** [Godot Engine](https://godotengine.org/) 2D Game Mechanics, Arduino / Microcontroller Prototyping & Cybersecurity CTF Fundamentals
-* **✧ Still Learning:** Custom 2D Fragment Shaders, Game State Machines, Embedded C/C++ & Hardware-Software Interfacing
+Potential sections include:
 
-## ꒰ა 🗺️ ໒꒱ 03 // QUEST_BOARD.EXE — Engineering Quests & Build Log ₊˚⊹♡
+### A. Magical pixel-art splash screen
 
-> **👑 GUILD BOARD NOTICE:**
-> `Instead of inventing fake startups or imaginary awards, this quest board showcases the real engineering problems I love solving, what I build in my workbench, and the architectural decisions behind them!` ฅ^•ﻌ•^ฅ
+The first screen must immediately communicate:
 
-```text
-╭─────────────────────── ꒰ა 🍓 ACPTEAM GUILD QUEST LOG 🍓 ໒꒱ ───────────────────────╮
-│  (\_/)   "Every project starts with a real problem, a clean database schema,       │
-│ ( •༝• )   and a terminal full of pink sparkles! Here is what's cooking inside     │
-│ / >📜< \  my development cauldron right now~"                                      │
-╰────────────────────────────────────────────────────────────────────────────────────╯
-```
-
-| 📜 **QUEST & RANK** | 🛠️ **PROBLEM & WHAT I BUILT** | 🧩 **STACK & ENGINEERING DECISIONS** | 📂 **WORKBENCH SLOT** |
-| :--- | :--- | :--- | :--- |
-| **🎀 QUEST #01** · **Full-Stack Web & ACPTeam Collaborative Apps** (`[S-RANK CORE]`) | **Problem:** Student and team web apps quickly break down when frontend state and backend APIs lack clear contracts. **Built:** Modular full-stack web systems with RESTful endpoints, role-based auth flows, and responsive pastel/modern interfaces. | **Stack:** TypeScript, React, Node.js / PHP, [PostgreSQL](https://www.postgresql.org/) / MySQL, Tailwind CSS. **Architecture Choice:** Separate routing, input validation, and database queries into distinct layers so the whole **ACPTeam Development** party can ship features cleanly. | `📁 acpteam/fullstack-web-core` · `🟢 Active Workbench` |
-| **🤖 QUEST #02** · **Local LLM & AI Agent Experimentation Lab** (`[ARCANE LAB]`) | **Problem:** Treating AI as a black box produces brittle code that nobody on the team truly understands. **Built:** Local LLM inference pipelines on my **NVIDIA RTX 4050 Laptop GPU** paired with structured Python/Bash tool-calling scripts. | **Stack:** Python, FastAPI, Local Quantized LLMs, JSON Schema Validation, Bash. **Architecture Choice:** Keep a strict human-in-the-loop verification step—using AI agents to explore options fast while manually auditing every architectural decision. | `📁 luxion/rtx4050-agent-lab` · `🧪 Local AI Sandbox` |
-| **🐧 QUEST #03** · **Neko-Arch & Hyprland Pink Pixel Rice** (`[SYSTEM CRAFT]`) | **Problem:** Heavy desktop environments consume unnecessary RAM/VRAM and slow down terminal-centric coding. **Built:** A lightweight, keyboard-driven [Arch Linux](https://archlinux.org/) + [Hyprland](https://hypr.land/) desktop environment themed in Cotton Candy Pink and Dark Plum. | **Stack:** Arch Linux, Hyprland, Waybar, Kitty Terminal, Zsh, Custom CSS & Shell Scripts. **Architecture Choice:** Strip out background bloat so 100% of CPU and GPU headroom stays dedicated to compilers, Docker containers, and local AI models. | `📁 luxion/neko-hypr-dotfiles` · `💎 Daily Driver` |
-| **🎮 QUEST #04** · **Pixel Game Atelier, Cybersec & Hardware Tinkering** (`[CREATIVE R&D]`) | **Problem:** Staying inside standard CRUD apps limits how deeply an engineer understands frame loops, network packets, and hardware. **Built:** 2D pixel-art game prototypes, security lab write-ups, creative coding visuals, and microcontroller experiments. | **Stack:** [Godot Engine](https://godotengine.org/), Python, C/C++, HTML5 Canvas, Linux Networking Tools. **Architecture Choice:** Build small prototypes from first principles to study state machines, memory layout, and protocol security hands-on. | `📁 luxion/pixel-cyber-atelier` · `🕹️ R&D Playground` |
-
-## ꒰ა 🖥️ ໒꒱ 04 // NEKO_DESKTOP.SH — The Pink Hacker Operating System ₊˚⊹♡
-
-> **🪟 LIVE DESKTOP SNAPSHOT:**
-> `A peek into Workspace 1 of my fictional NekoOS desktop running on Arch Linux + Hyprland! Tiled windows, zero clutter, maximum kawaii.` ૮꒰ ˶• ༝ •˶꒱ა ♡
-
-```bash
-# 🎀 [WORKSPACE 1 :: kitty@hyprland — /home/luxion/neko-os] ──────────────────────────
-luxion@colorful-p15 ~ $ fastfetch --logo kitty-pink
-      /\_/\        luxion@colorful-p15
-     ( ˶•༝•˶)       ────────────────────────────────────────────────
-     / >🍓< \      OS      : Arch Linux x86_64 (Rolling Release)
-    (   ~   )      Host    : COLORFUL P15 23
-     `--U--'       WM      : Hyprland (Wayland) // Cotton-Candy-Rice
-                   CPU     : 12th Gen Intel Core i5
-                   GPU     : NVIDIA GeForce RTX 4050 Laptop GPU
-                   Guild   : ACPTeam Development [Full-Stack & Lead]
-                   Uptime  : 03h 42m (Powered by Strawberry Milk 🍓)
-
-luxion@colorful-p15 ~ $ tree -L 1 /home/luxion/desktop/
-/home/luxion/desktop/
-├── [📁] projects/        # Full-stack web apps, REST APIs & ACPTeam builds
-├── [🖥️] terminal/        # Zsh, Tmux, Neovim & Arch automation scripts
-├── [🐈] pixel-pet/       # Mochi-Byte v2.4 (resident cyber-calico debugger)
-├── [🗃️] databases/       # PostgreSQL, MySQL, SQLite & Redis data crystals
-├── [🤖] ai-laboratory/   # Local LLM inference (RTX 4050) & agent pipelines
-└── [🎮] game-room/       # Godot pixel worlds, shaders & hardware tinkering
-
-0 errors, 6 magical directories mounted ♡
-```
-
-| 🪟 **DESKTOP WINDOW** | 📂 **SYSTEM PATH** | 💗 **WHAT RUNS INSIDE THIS WINDOW** | 🚦 **DAEMON STATUS** |
-| :--- | :--- | :--- | :--- |
-| **`[📁] projects`** | `/home/luxion/projects` | Full-stack web applications, backend APIs, and collaborative repositories with **ACPTeam Development**. | `🟢 COMPILING CLEANLY` |
-| **`[🖥️] terminal`** | `/dev/pts/0 (kitty + zsh)` | Daily [Arch Linux](https://archlinux.org/) & [Hyprland](https://hypr.land/) command center for Git, package management, and debugging. | `🟢 KEYBINDS LOCKED IN` |
-| **`[🐈] pixel-pet`** | `/opt/neko/mochi-byte.exe` | Resident pixel cat widget who naps on my status bar and hisses at unhandled promise rejections. | `🟢 PURRING AT 60 FPS` |
-| **`[🗃️] databases`** | `/var/lib/postgresql` | Normalized relational schemas, SQL query profiling, migrations, and local data stores. | `🟢 ACID COMPLIANT ♡` |
-| **`[🤖] AI-laboratory`** | `/lab/rtx4050-local-llm` | Local LLM experiments and AI coding agent workflows supervised by human architectural review. | `🟢 VRAM ALLOCATED` |
-| **`[🎮] game-room`** | `/usr/games/pixel-atelier` | 2D pixel art games in [Godot Engine](https://godotengine.org/), creative coding shaders, security labs, and hardware experiments. | `🟢 SPRITES LOADED` |
-
-## ꒰ა 💻 ໒꒱ 05 // WORKSTATION_CONFIG.SYS — The Developer Battle-Station ₊˚⊹♡
-
-> **🔧 HARDWARE & WORKFLOW INSPECTOR:**
-> `Hardware specs aren't accomplishments—they're simply the laboratory that lets me compile fast, test local AI models, and rice my Linux desktop to perfection!` ₍^. .^₎⟆
-
-```ini
-; 🍓 ═══════════════════ LUXION_WORKSTATION_CONFIG.INI ═══════════════════ 🍓
-;    (\__/)
-;    ( •ㅅ•)   "I run Arch Linux + Hyprland because customizing my own OS
-;    / >💻< \   from the ground up makes me a better systems thinker!"
-; ═════════════════════════════════════════════════════════════════════════
-
-[Laptop_Rig]
-Model           = "COLORFUL P15 23"
-Processor       = "Intel Core i5 (12th Generation)"
-Graphics        = "NVIDIA GeForce RTX 4050 Laptop GPU (CUDA + Wayland Accelerated)"
-Desk_Buffs      = "Pink Pixel Stickers + Chilled Strawberry Milk + Mechanical Keys"
-
-[Linux_Environment]
-Distribution    = "Arch Linux (Rolling Release — pacman & AUR)"
-Compositor      = "Hyprland (Dynamic Tiling Wayland Compositor)"
-Terminal_Stack  = "Kitty + Zsh + Tmux + Neovim + VS Code"
-Color_Palette   = "Cotton Candy (#FFB7D5) · Lavender (#DCC6FF) · Dark Plum (#35243F)"
-
-[Development_Habits]
-Version_Control = "Git CLI + GitHub (Clean commits, structured branches, code reviews)"
-Database_Tools  = "psql, mysql-cli, Prisma Studio, SQLite3, Redis CLI"
-AI_Workflow     = "Use AI agents as high-speed tools; always read, test & own the code"
-```
-
-## ꒰ა 🍬 ໒꒱ 06 // CANDY_ARCADE_STATS.ROM — Pink Pixel Arcade Cabinet ₊˚⊹♡
-
-> **🕹️ ZERO-ERROR ARCADE TELEMETRY:**
-> `Welcome to the Candy Arcade! Below is my retro pixel scoreboard and stack telemetry, rendered with 100% reliable static pixel badges and ASCII arcade art so it never breaks or throws 404 API errors!` (づ｡◕‿‿◕｡)づ
-
-   
-
-```text
-╭────────────────────── ꒰ა 🕹️ NEKO-ARCADE 1999 :: SCOREBOARD 🕹️ ໒꒱ ──────────────────────╮
-│  🪙 INSERT COIN: [1 UP]               HIGH SCORE: 999,999 ♡               STAGE: 2026  │
-│  ====================================================================================  │
-│                                                                                        │
-│   📊 DEVELOPER TELEMETRY & LANGUAGE DISTRIBUTION (PLAYFUL VISUALIZATION)               │
-│   ──────────────────────────────────────────────────────────────────────               │
-│   🌸 TypeScript / JS   [████████████████░░░░]  40%  :: Full-Stack UI & Node APIs       │
-│   🍓 Python            [████████████░░░░░░░░]  25%  :: AI Agents, FastAPI & Scripts    │
-│   🧁 PHP / SQL         [████████░░░░░░░░░░░░]  18%  :: Backend Systems & Schemas       │
-│   🐧 Bash / Linux Conf [█████░░░░░░░░░░░░░░░]  12%  :: Arch + Hyprland Automation      │
-│   🎮 GDScript / C / C++[███░░░░░░░░░░░░░░░░░]   5%  :: Game Loops & Hardware Labs      │
-│                                                                                        │
-│   ✨ ACTIVE COMBO STREAK :: [🍓 Building] -> [🔍 Debugging] -> [🚀 Shipping] -> [🔁]   │
-╰────────────────────────────────────────────────────────────────────────────────────────╯
-```
-
-| 🏆 **ARCADE ACHIEVEMENT BADGE** | 🎮 **UNLOCK CONDITION IN LUXION'S WORLD** | 🌟 **RARITY** |
-| :--- | :--- | :--- |
-| **🎀 `Pink Arch Alchemist`** | Daily-driving [Arch Linux](https://archlinux.org/) + [Hyprland](https://hypr.land/) with custom pastel dotfiles without breaking Wayland | `💎 MYTHIC` |
-| **👑 `Guild Party Leader`** | Leading full-stack projects, architecture reviews, and team collaboration at **ACPTeam Development** | `🌟 LEGENDARY` |
-| **🤖 `Familiar Whisperer`** | Running local LLMs on an RTX 4050 and using AI agents without ever skipping code comprehension | `✨ EPIC` |
-| **🗃️ `Schema Guardian`** | Designing normalized [PostgreSQL](https://www.postgresql.org/) & MySQL tables with clean foreign keys and zero orphan records | `🍓 RARE` |
-
-## ꒰ა 🐾 ໒꒱ 07 // VIRTUAL_PET.EXE — Meet Mochi-Byte, My Cyber-Kitten ₊˚⊹♡
-
-> **🍓 TAMAGOTCHI STATUS MONITOR (DECORATIVE & PLAYFUL):**
-> `Meet Mochi-Byte! She lives inside my terminal, chases cursor trails across Hyprland workspaces, and guards my Git branches. Her stats below are playful decorative RPG indicators!` ฅ(˶> ᵕ <˶)ฅ
-
-```text
-╭───────────────────── ꒰ა 🎀 TAMAGOTCHI :: MOCHI-BYTE v2.4 🎀 ໒꒱ ─────────────────────╮
-│                                                                                     │
-│         ₊˚⊹♡  🍓   🎀   🌸  ✧˚₊           NAME      :: Mochi-Byte (Cyber-Calico)    │
-│           /\_/\   /\_/\                   CLASS     :: Level 99 Debugging Familiar  │
-│          ( ˶•༝•˶) ( -༝- ) zZz             HABITAT   :: ~/.config/hypr/hyprland.conf │
-│          / >🍓< \ / >🍵< \                FAV TREAT :: Zero-Warning Builds & Berries│
-│         `--U---U-'`--U---U-'                                                        │
-│                                           [🍓 FEED]  [🎀 BRUSH]  [💻 PAIR-DEBUG]    │
-╰─────────────────────────────────────────────────────────────────────────────────────╯
-```
-
-| 🎀 **PET STAT** | 🔋 **PLAYFUL MOOD METER** | 💬 **CURRENT FAMILIAR ACTIVITY** |
-| :--- | :--- | :--- |
-| **🔎 Curiosity** | `██████████ 100%` | Inspecting every network packet, SQL join, and Linux config file |
-| **⚡ Coding Energy** | `█████████░  94%` | Zooming across tiled terminal windows at midnight |
-| **🛠️ Debugging Power** | `█████████░  96%` | Sniffing out null pointers and off-by-one bugs for strawberry treats |
-| **🍵 Strawberry Milk / Coffee** | `████████░░  88%` | Refilled and ready for a deep-focus coding session |
-| **💗 Kawaii Level** | `██████████ 9999%` | `[OVERFLOW WARNING: CUTENESS EXCEEDS 64-BIT INTEGER LIMIT]` |
-
-## ꒰ა 📜 ໒꒱ 08 // NEKO_MANIFESTO.MD — My Coding Philosophy ₊˚⊹♡
-
-> **💡 WHY MY DESKTOP IS SILLY BUT MY CODE IS SERIOUS:**
-> `Cuteness is an expression of joy and creativity; clean engineering is how we respect the people who use and maintain our software.` ૮꒰ ˶• ༝ •˶꒱ა ✨
-
-| 🌸 **ENGINEERING PRINCIPLE** | 💻 **HOW IT SHOWS UP IN MY WORK** |
-| :--- | :--- |
-| **🎀 1. Cute UI, Clean Architecture** | A playful pastel interface is only half the magic—underneath, I care about modular code, predictable state, and clean database schemas. |
-| **🧠 2. Understand the Code, Don't Just Generate It** | AI coding agents are awesome power-ups, but I never treat them as a substitute for understanding how the system actually works under the hood. |
-| **🪶 3. Less Bloat, More Purpose** | Living in [Arch Linux](https://archlinux.org/) and [Hyprland](https://hypr.land/) taught me that every dependency, background service, and abstraction should earn its keep. |
-| **🛡️ 4. Secure by Design, Adorable by Default** | Input validation, parameterized SQL queries, and proper auth checks matter in every single build—even when the UI has pixel bows on it. |
-| **⚡ 5. Performance Is a Feature** | Fast API responses, lean queries, and responsive interfaces make software feel magical on any hardware. |
-| **🌱 6. Real Projects Over Empty Promises** | Building working prototypes, experimenting hands-on, and learning from real bugs beat corporate buzzwords every time. |
-
-## ꒰ა 💌 ໒꒱ 09 // STAGE_CLEAR.EXE — Save Game & Farewell! ₊˚⊹♡
-
-```text
-★·.·´¯`·.·★  🎀 STAGE CLEAR! THANK YOU FOR EXPLORING LUXION'S PIXEL WORLD! 🎀  ★·.·´¯`·.·★
-
-             (\_/)  ₊˚⊹♡        PLAYER  :: Luxion — Full-Stack Dev & Team Leader
-            ( ˶•༝•˶)            GUILD   :: ACPTeam Development
-           c(")_(") 🍓          ORIGIN  :: SMK Negeri 1 Purbalingga, Indonesia
-                                RIG     :: Arch Linux + Hyprland // COLORFUL P15 23
-
-     🏆 [STAGE REWARD] :: You gained +1 Magical Strawberry 🍓 & +100 Clean-Code Luck!
-        "Thanks for stopping by my digital garden! Star a repo, fork an experiment,
-         or just enjoy the pink pixels~ nyaa! ฅ(˶> ᵕ <˶)ฅ ♡"
-```
+- Extreme kawaii.
+- Pixel art.
+- My developer identity.
+- A distinctive personal brand.
+
+Create a custom-feeling header with pastel gradients, cute typography, animated text, pixel decorations, and a memorable tagline.
+
+Possible taglines:
+
+- "cute pixels, dangerous amounts of code ♡"
+- "nyaa~ compiling another universe!"
+- "powered by cats, caffeine, and curiosity"
+- "building software & collecting pixel hearts"
+- "my code is serious, my desktop is not"
+- "100% developer, 1000% silly"
+
+Choose something better if inspiration strikes.
+
+### B. The kawaii developer profile
+
+Present me as a character in a cute RPG.
+
+Include a character profile containing my alias, role, guild, favorite environment, interests, and current development focus.
+
+Make it visually adorable using retro text panels, pixel-inspired borders, and playful labels.
+
+### C. The skill tree
+
+Show my technical abilities in a visually appealing game-style skill tree.
+
+Organize technologies into meaningful groups:
+
+- Frontend engineering.
+- Backend engineering.
+- Databases and data management.
+- Linux and system tooling.
+- DevOps and deployment.
+- AI and automation.
+- Game development and creative coding.
+
+Use technology icons where appropriate, but do not merely dump dozens of badges without context.
+
+Distinguish between technologies I actively use, technologies I have experimented with, and areas I am still learning.
+
+Do not falsely claim mastery.
+
+### D. The project quest board
+
+This is one of the most important sections.
+
+Find my actual repositories if repository access is available. Inspect their README files, source code, descriptions, and implementation details to identify projects worth showcasing.
+
+For each real project, communicate:
+
+- What problem it solves.
+- What I built.
+- The relevant technology stack.
+- The interesting engineering decisions.
+- A working repository or demo link when verified.
+
+Design each project card like a quest in a cute pixel RPG.
+
+Use playful titles, pastel decorations, pixel-themed labels, and adorable status indicators.
+
+Do not invent project repositories or pretend conceptual ideas are completed products.
+
+Prioritize evidence of actual engineering ability over the number of showcased projects.
+
+### E. The pink hacker desktop
+
+Create a fictional desktop interface using Markdown-compatible techniques.
+
+Possible elements:
+
+- `[📁] projects`
+- `[🖥️] terminal`
+- `[🐈] pixel pet`
+- `[🗃️] databases`
+- `[🤖] AI laboratory`
+- `[🎮] game room`
+
+Give the interface a cute retro-computer atmosphere.
+
+Use real project links where possible.
+
+### F. The developer workstation
+
+Show that I genuinely enjoy technical experimentation.
+
+Include my Arch Linux and Hyprland environment, terminal-oriented workflow, Git, database tools, and development interests.
+
+Make it resemble an adorable pixel computer configuration screen.
+
+Avoid suggesting that hardware specifications are professional accomplishments.
+
+### G. GitHub statistics as a candy arcade
+
+If external statistics services work, integrate them into a playful arcade or collection screen.
+
+Potential widgets:
+
+- GitHub contribution statistics.
+- Programming language statistics.
+- Contribution streak.
+- Contribution activity graph.
+- Profile visitor counter.
+
+Use pastel or dark-pink themes with coordinated borders and colors.
+
+Verify the correct URLs and parameters when possible.
+
+Do not fabricate statistics.
+
+If a service is broken, unreliable, or unnecessary, replace it with a more robust alternative.
+
+### H. Virtual pixel pet
+
+Create an adorable mascot that represents my developer personality.
+
+It could be a pixel cat, cyber kitten, magical bunny, or coding creature.
+
+Give it playful status indicators, such as:
+
+- Curiosity.
+- Coding energy.
+- Debugging power.
+- Coffee level.
+- Kawaii level.
+
+These can be fictional decorative stats, but clearly present them as playful rather than actual measurements.
+
+### I. Coding philosophy
+
+Express real engineering principles in an entertaining way.
+
+For example:
+
+- Cute UI, clean architecture.
+- Less bloat, more purpose.
+- Secure by design, adorable by default.
+- Performance is a feature.
+- Real projects over empty promises.
+- Understand the code, don't just generate it.
+- Build things people actually want to use.
+
+Avoid turning this section into a boring corporate manifesto.
+
+### J. Contact and farewell
+
+End with a spectacular kawaii finale.
+
+Use pastel pixel decorations, adorable ASCII characters, links to verified profiles, and a playful message to visitors.
+
+The last section should feel like completing a cute retro game.
+
+## 5. TECHNICAL QUALITY REQUIREMENTS ⚙️
+
+The README must remain a valid, GitHub-compatible Markdown document.
+
+Use:
+
+- Standard GitHub Flavored Markdown.
+- HTML supported by GitHub README rendering.
+- External SVGs and GIFs where appropriate.
+- Technology icons from a reliable icon service when available.
+- Animated assets sparingly enough to avoid making the page unusable.
+- ASCII art and Unicode decorations.
+- Readable code blocks and properly structured sections.
+
+Remember that GitHub sanitizes HTML and does not allow arbitrary custom CSS or JavaScript in README files.
+
+Do not pretend the README supports a real interactive desktop, functioning buttons, or actual game mechanics unless those features are implemented elsewhere.
+
+Simulate interactive-looking elements through decorative layouts instead.
+
+Do not embed scripts, iframes, unsafe HTML, or broken image URLs.
+
+Every image must have meaningful alt text.
+
+Use a mixture of image banners, badges, text panels, code blocks, and actual project information.
+
+Avoid making the entire README one enormous wall of text.
+
+Make it visually rich without making it exhausting to navigate.
+
+## 6. VISUAL DESIGN RULES 🎀
+
+The result must NOT look like a typical developer README with a pink banner pasted on top.
+
+Avoid:
+
+- Generic profile templates.
+- Excessive identical badges.
+- Repetitive sections.
+- Plain corporate tables dominating the entire page.
+- Overly formal language.
+- Generic inspirational quotes.
+- Unnecessary walls of text.
+- Fake achievement claims.
+- Fake project links.
+- Broken animations.
+- Random unrelated imagery.
+- Inconsistent visual styles.
+- Too much visual noise that destroys readability.
+
+Instead, build a cohesive personal visual identity.
+
+Every section should feel like it belongs to the same kawaii pixel-art universe.
+
+The page should be so cute that visitors immediately recognize it as mine.
+
+But when recruiters, fellow developers, or technical judges inspect it, they should still discover genuine technical substance.
+
+## 7. RESEARCH AND ASSET SELECTION 🔎
+
+If web browsing is available, investigate suitable assets and verify the URLs before using them.
+
+Look for:
+
+- Cute pixel cats.
+- Pastel pixel-art dividers.
+- Retro computer graphics.
+- Pixel hearts and decorative GIFs.
+- Suitable animated banners.
+- Reliable GitHub statistics and icon services.
+
+Prefer assets that are cohesive, lightweight, and appropriate for a developer portfolio.
+
+Do not assume an asset URL works merely because it looks plausible.
+
+If an asset cannot be verified, choose a simpler alternative.
+
+Do not copy an entire existing creator's profile. Develop a distinctive visual identity for Luxion.
+
+## 8. IMPLEMENTATION WORKFLOW
+
+Follow this workflow:
+
+1. Inspect the current workspace and identify whether a GitHub profile repository or an existing `README.md` is available.
+2. Read the existing README and preserve useful personal information and verified project links.
+3. Inspect available repository information and identify authentic projects worth featuring.
+4. Develop the visual concept before implementing the complete Markdown.
+5. Create or update the actual `README.md`.
+6. Validate Markdown structure, image URLs where possible, usernames, links, and section consistency.
+7. Check that the README works with GitHub's rendering limitations.
+8. Remove placeholder URLs wherever the required real information is available.
+9. Keep placeholders only for information that cannot be verified.
+10. Report the file changed, the design decisions made, and any remaining manual configuration.
+
+Do not delete unrelated files.
+
+Do not publish, push, or modify remote repositories without explicit authorization.
+
+If no repository is available in the workspace, create a standalone `README.md` in the current workspace rather than stopping at a conceptual response.
+
+## 9. ACCEPTANCE CRITERIA
+
+The finished result must satisfy all of these:
+
+- [ ] Maximum kawaii aesthetic.
+- [ ] Dominant pastel pink, lavender, and pixel-art visuals.
+- [ ] Multiple cute pixel motifs, not just one banner.
+- [ ] Distinctive personal identity for Luxion.
+- [ ] Developer skills presented in a meaningful structure.
+- [ ] Real projects showcased when available.
+- [ ] Authentic engineering interests and development environment.
+- [ ] Functional, verified links wherever possible.
+- [ ] GitHub-compatible Markdown and HTML.
+- [ ] No fabricated credentials, achievements, or project URLs.
+- [ ] No unnecessary corporate formality.
+- [ ] Readable and maintainable Markdown source.
+- [ ] Actual file implementation, not just recommendations.
+
+## FINAL CREATIVE DIRECTION
+
+Do not play it safe.
+
+Do not reduce the cuteness just because the profile is about software engineering.
+
+**I WANT THE CUTEST, MOST PINK, MOST PIXELATED, MOST PERSONAL GITHUB README YOU CAN CREATE WHILE STILL SHOWING THAT I AM A SERIOUS, CAPABLE DEVELOPER.**
+
+Make it feel like:
+
+A pink pixel cat owns a magical computer, runs Arch Linux, builds full-stack applications, experiments with AI, debugs APIs at midnight, and decorates every commit with tiny hearts.
+
+The README should make visitors think:
+
+"WHAT IS THIS ADORABLE LITTLE DIGITAL WORLD?!"
+
+And then, after exploring the projects:
+
+"WAIT. THIS PERSON ACTUALLY BUILDS COOL SOFTWARE."
+
+Now inspect the workspace and create the finished README.md.
+
+**NYAA~ LET'S MAKE THE INTERNET CUTER. ฅ(˶> ᵕ <˶)ฅ ♡🎀**
