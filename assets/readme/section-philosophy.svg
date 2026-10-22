@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 68" width="100%" height="68">
+  <defs>
+    <linearGradient id="secGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2a1842"/>
+      <stop offset="50%" stop-color="#3b225c"/>
+      <stop offset="100%" stop-color="#2a1842"/>
+    </linearGradient>
+    <linearGradient id="txtGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffb7d5"/>
+      <stop offset="50%" stop-color="#dcc6ff"/>
+      <stop offset="100%" stop-color="#bde0fe"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .sec-title { font-family: 'Press Start 2P', 'Courier New', monospace; font-size: 15px; font-weight: bold; letter-spacing: 2px; }
+    .sec-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Quicksand', sans-serif; font-size: 12px; font-weight: 500; }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="4" y="4" width="792" height="60" rx="10" fill="url(#secGrad)" stroke="#ffb7d5" stroke-width="1.8"/>
+  <rect x="7" y="7" width="786" height="54" rx="7" fill="none" stroke="#dcc6ff" stroke-width="1" stroke-dasharray="4,4" opacity="0.6"/>
+
+  <!-- Pixel Icon Box Left -->
+  <rect x="20" y="16" width="36" height="36" rx="6" fill="#1b102b" stroke="#ff70a6" stroke-width="1.5"/>
+  <text x="38" y="40" font-size="20" text-anchor="middle">📜</text>
+
+  <!-- Title & Subtitle -->
+  <text x="72" y="34" fill="url(#txtGrad)" class="sec-title">06 // CODING PHILOSOPHY</text>
+  <text x="73" y="52" fill="#c4b5fd" class="sec-sub">Guiding engineering principles &amp; tenets</text>
+
+  <!-- Right Pixel Tag -->
+  <g transform="translate(650, 22)">
+    <rect x="0" y="0" width="125" height="24" rx="5" fill="#1b102b" stroke="#bae6fd" stroke-width="1.2"/>
+    <circle cx="14" cy="12" r="3" fill="#38bdf8"/>
+    <text x="68" y="16" fill="#bae6fd" font-family="'Courier New', monospace" font-size="10" font-weight="bold" text-anchor="middle">QUEST ACTIVE</text>
+  </g>
+</svg>

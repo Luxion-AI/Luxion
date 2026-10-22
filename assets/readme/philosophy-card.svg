@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 340" width="100%" height="340">
+  <defs>
+    <linearGradient id="philoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#180f29"/>
+      <stop offset="100%" stop-color="#231338"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .p-title {{ font-family: 'Press Start 2P', 'Courier New', monospace; font-size: 11px; fill: #ffb7d5; }}
+    .p-head {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Quicksand', sans-serif; font-size: 15px; font-weight: bold; fill: #ffffff; }}
+    .p-desc {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Quicksand', sans-serif; font-size: 12.5px; fill: #d8b4fe; line-height: 18px; }}
+  </style>
+
+  <!-- Frame -->
+  <rect x="6" y="6" width="838" height="328" rx="12" fill="url(#philoBg)" stroke="#f472b6" stroke-width="1.8"/>
+
+  <!-- 4 Cards Grid -->
+  <!-- Card 1: Cute UI, Rock-Solid Core -->
+  <g transform="translate(25, 25)">
+    <rect x="0" y="0" width="385" height="135" rx="8" fill="#120a1f" stroke="#ff70a6" stroke-width="1.2"/>
+    <text x="16" y="28" font-size="20">🎀</text>
+    <text x="46" y="28" class="p-head">Cute Aesthetics, Rock-Solid Core</text>
+    <text x="16" y="58" class="p-desc">High visual warmth does not mean compromising on engineering rigor.</text>
+    <text x="16" y="78" class="p-desc">Delightful micro-interactions with hardened error boundaries and</text>
+    <text x="16" y="98" class="p-desc">type-safe reliability across every layer of the system.</text>
+  </g>
+
+  <!-- Card 2: Zero Bloat, High Purpose -->
+  <g transform="translate(440, 25)">
+    <rect x="0" y="0" width="385" height="135" rx="8" fill="#120a1f" stroke="#38bdf8" stroke-width="1.2"/>
+    <text x="16" y="28" font-size="20">⚡</text>
+    <text x="46" y="28" class="p-head">Zero Bloat, Maximum Purpose</text>
+    <text x="16" y="58" class="p-desc">Software should be fast, responsive, and respectful of user resources.</text>
+    <text x="16" y="78" class="p-desc">From Rust audio DSP loops to lightweight Next.js builds, we value</text>
+    <text x="16" y="98" class="p-desc">clean architectures that do more with significantly less waste.</text>
+  </g>
+
+  <!-- Card 3: Deep Understanding Over Blind Generation -->
+  <g transform="translate(25, 180)">
+    <rect x="0" y="0" width="385" height="135" rx="8" fill="#120a1f" stroke="#a855f7" stroke-width="1.2"/>
+    <text x="16" y="28" font-size="20">🧠</text>
+    <text x="46" y="28" class="p-head">Understand Deeply, Code Deliberately</text>
+    <text x="16" y="58" class="p-desc">Master the fundamentals: memory, threads, kernel signals, transactions.</text>
+    <text x="16" y="78" class="p-desc">AI agents amplify creativity, but true engineering excellence comes from</text>
+    <text x="16" y="98" class="p-desc">knowing exactly why every single byte and packet behaves the way it does.</text>
+  </g>
+
+  <!-- Card 4: Honest Execution & Continuous Craft -->
+  <g transform="translate(440, 180)">
+    <rect x="0" y="0" width="385" height="135" rx="8" fill="#120a1f" stroke="#34d399" stroke-width="1.2"/>
+    <text x="16" y="28" font-size="20">🌷</text>
+    <text x="46" y="28" class="p-head">Real Projects Over Empty Noise</text>
+    <text x="16" y="58" class="p-desc">Ship genuine software that solves real problems for real communities.</text>
+    <text x="16" y="78" class="p-desc">Every bug fixed at 2 AM, every PostgreSQL row-lock tested, and every</text>
+    <text x="16" y="98" class="p-desc">dotfile polished is a genuine step towards technical mastery. ♡</text>
+  </g>
+</svg>

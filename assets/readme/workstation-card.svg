@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 380" width="100%" height="380">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140d21"/>
+      <stop offset="100%" stop-color="#1b102b"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .code-term {{ font-family: 'Courier New', 'Consolas', monospace; font-size: 13px; fill: #ffffff; }}
+    .key {{ fill: #ffb7d5; font-weight: bold; }}
+    .val {{ fill: #f1f5f9; }}
+    .arch-logo {{ font-family: monospace; font-size: 12px; fill: #38bdf8; font-weight: bold; line-height: 14px; }}
+    .t-head {{ font-family: 'Courier New', monospace; font-size: 12px; fill: #d8b4fe; font-weight: bold; }}
+  </style>
+
+  <!-- Terminal Window Frame -->
+  <rect x="6" y="6" width="838" height="368" rx="10" fill="url(#termBg)" stroke="#c084fc" stroke-width="2"/>
+  <rect x="10" y="10" width="830" height="360" rx="7" fill="none" stroke="#ffb7d5" stroke-width="1" stroke-dasharray="3,3" opacity="0.4"/>
+
+  <!-- Window Header -->
+  <path d="M 6 18 C 6 11 11 6 18 6 L 832 6 C 839 6 844 11 844 18 L 844 38 L 6 38 Z" fill="#25123d"/>
+  <line x1="6" y1="38" x2="844" y2="38" stroke="#c084fc" stroke-width="1.2"/>
+
+  <!-- Window Buttons -->
+  <circle cx="24" cy="22" r="5.5" fill="#f43f5e"/>
+  <circle cx="42" cy="22" r="5.5" fill="#fbbf24"/>
+  <circle cx="60" cy="22" r="5.5" fill="#34d399"/>
+  <text x="85" y="26" class="t-head">luxion@battlestation :: ~/environment (hyprland)</text>
+
+  <!-- Left: ASCII Art Logo -->
+  <g transform="translate(30, 60)">
+    <text x="0" y="20" class="arch-logo">       /\</text>
+    <text x="0" y="38" class="arch-logo">      /  \</text>
+    <text x="0" y="56" class="arch-logo">     /\   \</text>
+    <text x="0" y="74" class="arch-logo">    /      \</text>
+    <text x="0" y="92" class="arch-logo">   /   ,,   \</text>
+    <text x="0" y="110" class="arch-logo">  /   |  |  -\</text>
+    <text x="0" y="128" class="arch-logo"> /_-''    ''-_\</text>
+    <text x="0" y="160" class="code-term" fill="#ff70a6" font-size="12">  ฅ^•ﻌ•^ฅ MOCHI-OS</text>
+    <text x="0" y="180" class="code-term" fill="#d8b4fe" font-size="11">  [ ARCH LINUX ROLLING ]</text>
+
+    <!-- Mini Palette -->
+    <g transform="translate(0, 205)">
+      <rect x="0" y="0" width="16" height="12" fill="#ff70a6" rx="2"/>
+      <rect x="20" y="0" width="16" height="12" fill="#dcc6ff" rx="2"/>
+      <rect x="40" y="0" width="16" height="12" fill="#bde0fe" rx="2"/>
+      <rect x="60" y="0" width="16" height="12" fill="#a7f3d0" rx="2"/>
+      <rect x="80" y="0" width="16" height="12" fill="#fde047" rx="2"/>
+      <rect x="100" y="0" width="16" height="12" fill="#fed7aa" rx="2"/>
+      <rect x="120" y="0" width="16" height="12" fill="#f43f5e" rx="2"/>
+      <rect x="140" y="0" width="16" height="12" fill="#38bdf8" rx="2"/>
+    </g>
+  </g>
+
+  <!-- Vertical Terminal Line -->
+  <line x1="240" y1="52" x2="240" y2="350" stroke="#3b205d" stroke-width="1.2"/>
+
+  <!-- Right: Fetch Output -->
+  <g transform="translate(260, 65)">
+    <!-- Command Prompt -->
+    <text x="0" y="16" class="code-term">
+      <tspan fill="#34d399">luxion@battlestation</tspan><tspan fill="#d8b4fe">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#f1f5f9">$ fastfetch --kawaii</tspan>
+    </text>
+
+    <line x1="0" y1="28" x2="540" y2="28" stroke="#381f5c" stroke-width="1"/>
+
+    <g transform="translate(0, 50)">
+      <text x="0" y="0" class="code-term"><tspan class="key">OS: </tspan><tspan class="val">Arch Linux x86_64 [Rolling Release 󰣇]</tspan></text>
+      <text x="0" y="24" class="code-term"><tspan class="key">Host: </tspan><tspan class="val">COLORFUL P15 23 Gaming Rig</tspan></text>
+      <text x="0" y="48" class="code-term"><tspan class="key">Kernel: </tspan><tspan class="val">Linux 6.x (zen / hardened)</tspan></text>
+      <text x="0" y="72" class="code-term"><tspan class="key">WM: </tspan><tspan class="val">Hyprland (Emperor custom Lua &amp; Quickshell)</tspan></text>
+      <text x="0" y="96" class="code-term"><tspan class="key">CPU: </tspan><tspan class="val">12th Gen Intel Core Processor</tspan></text>
+      <text x="0" y="120" class="code-term"><tspan class="key">GPU: </tspan><tspan class="val">NVIDIA GeForce RTX 4050 Laptop GPU (CUDA / ONNX)</tspan></text>
+      <text x="0" y="144" class="code-term"><tspan class="key">Terminal: </tspan><tspan class="val">Kitty with Quicksand / FiraCode Nerd Font</tspan></text>
+      <text x="0" y="168" class="code-term"><tspan class="key">Editor: </tspan><tspan class="val">Neovim (Lua-crafted) &amp; VS Code</tspan></text>
+      <text x="0" y="192" class="code-term"><tspan class="key">Theme: </tspan><tspan class="val">Pastel Cyber-Kawaii (Matugen auto-palette generator)</tspan></text>
+      <text x="0" y="216" class="code-term"><tspan class="key">Uptime: </tspan><tspan class="val">100% Fueled by Passion, Coffee &amp; Cute Code ♡</tspan></text>
+    </g>
+  </g>
+</svg>

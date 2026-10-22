@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 430" width="100%" height="430">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#191026"/>
+      <stop offset="50%" stop-color="#24143a"/>
+      <stop offset="100%" stop-color="#160e22"/>
+    </linearGradient>
+    <linearGradient id="barHp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+    <linearGradient id="barMp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="barExp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .lbl { font-family: 'Press Start 2P', 'Courier New', monospace; font-size: 11px; fill: #fbcfe8; }
+    .val { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Quicksand', sans-serif; font-size: 13px; font-weight: 600; fill: #ffffff; }
+    .stat-name { font-family: 'Press Start 2P', 'Courier New', monospace; font-size: 10px; fill: #bae6fd; }
+    .stat-val { font-family: 'Courier New', monospace; font-weight: bold; font-size: 13px; fill: #fde047; }
+    .bar-bg { fill: #0f0919; stroke: #372152; stroke-width: 1; }
+  </style>
+
+  <!-- Frame -->
+  <rect x="8" y="8" width="834" height="414" rx="12" fill="url(#cardBg)" stroke="#dcc6ff" stroke-width="2"/>
+  <rect x="12" y="12" width="826" height="406" rx="8" fill="none" stroke="#ffb7d5" stroke-width="1" stroke-dasharray="3,3" opacity="0.6"/>
+
+  <!-- Header Banner -->
+  <path d="M 8 20 C 8 13 13 8 20 8 L 830 8 C 837 8 842 13 842 20 L 842 42 L 8 42 Z" fill="#2d1742"/>
+  <text x="30" y="29" class="lbl" fill="#fbcfe8">CHARACTER_STATUS.SHEET // LUXION</text>
+  <text x="810" y="29" class="lbl" fill="#bae6fd" text-anchor="end">ROLE: FULL-STACK MAGUS</text>
+  <line x1="8" y1="42" x2="842" y2="42" stroke="#dcc6ff" stroke-width="1.5"/>
+
+  <!-- Left Column: Identity & Vitals -->
+  <g transform="translate(30, 65)">
+    <!-- Identity Rows -->
+    <text x="0" y="15" class="lbl">NAME:</text>
+    <text x="120" y="15" class="val">Luxion ( @Luxion-AI )</text>
+
+    <text x="0" y="42" class="lbl">CLASS:</text>
+    <text x="120" y="42" class="val">Full-Stack Developer &amp; Systems Alchemist</text>
+
+    <text x="0" y="69" class="lbl">GUILD:</text>
+    <text x="120" y="69" class="val">ACPTeam Development / SMEGA VocTech</text>
+
+    <text x="0" y="96" class="lbl">BASE OS:</text>
+    <text x="120" y="96" class="val" fill="#38bdf8">Arch Linux x86_64 󰣇 + Hyprland (Emperor)</text>
+
+    <text x="0" y="123" class="lbl">FAMILIAR:</text>
+    <text x="120" y="123" class="val" fill="#ffb7d5">Mochi ฅ^•ﻌ•^ฅ (Cyber-Kitten, Lv.42)</text>
+
+    <!-- Bars -->
+    <!-- HP (Vitality / Coffee) -->
+    <text x="0" y="165" class="lbl" fill="#fca5a5">HP [COFFEE]:</text>
+    <text x="120" y="165" font-family="'Courier New', monospace" font-size="11" fill="#fca5a5">9999 / 9999 (100%)</text>
+    <rect x="0" y="174" width="370" height="14" rx="4" class="bar-bg"/>
+    <rect x="2" y="176" width="366" height="10" rx="3" fill="url(#barHp)"/>
+
+    <!-- MP (AI & Code Energy) -->
+    <text x="0" y="213" class="lbl" fill="#7dd3fc">MP [SORCERY]:</text>
+    <text x="120" y="213" font-family="'Courier New', monospace" font-size="11" fill="#7dd3fc">8450 / 8450 (100%)</text>
+    <rect x="0" y="222" width="370" height="14" rx="4" class="bar-bg"/>
+    <rect x="2" y="224" width="366" height="10" rx="3" fill="url(#barMp)"/>
+
+    <!-- EXP (Progress to Next Mastery) -->
+    <text x="0" y="261" class="lbl" fill="#d8b4fe">EXP [MASTERY]:</text>
+    <text x="120" y="261" font-family="'Courier New', monospace" font-size="11" fill="#d8b4fe">98.4% (Next: Distributed Rust &amp; AI Agents)</text>
+    <rect x="0" y="270" width="370" height="14" rx="4" class="bar-bg"/>
+    <rect x="2" y="272" width="358" height="10" rx="3" fill="url(#barExp)"/>
+  </g>
+
+  <!-- Vertical Divider Line -->
+  <line x1="435" y1="58" x2="435" y2="400" stroke="#4c2772" stroke-width="1.5" stroke-dasharray="4,4"/>
+
+  <!-- Right Column: RPG Attributes & Perks -->
+  <g transform="translate(460, 65)">
+    <!-- Attributes Title -->
+    <rect x="0" y="0" width="355" height="26" rx="5" fill="#25153a" stroke="#dcc6ff" stroke-width="1"/>
+    <text x="177" y="18" class="lbl" fill="#fde047" text-anchor="middle">★ ATTRIBUTES &amp; BUFFS ★</text>
+
+    <!-- Attribute Grid -->
+    <g transform="translate(0, 42)">
+      <!-- STR -->
+      <rect x="0" y="0" width="168" height="48" rx="6" fill="#1b0f2e" stroke="#3b225c" stroke-width="1"/>
+      <text x="12" y="20" class="stat-name">STR [92]</text>
+      <text x="12" y="38" class="stat-val">Low-Level &amp; Systems</text>
+
+      <!-- AGI -->
+      <rect x="184" y="0" width="170" height="48" rx="6" fill="#1b0f2e" stroke="#3b225c" stroke-width="1"/>
+      <text x="196" y="20" class="stat-name">AGI [96]</text>
+      <text x="196" y="38" class="stat-val">Frontend &amp; Responsive</text>
+
+      <!-- INT -->
+      <rect x="0" y="60" width="168" height="48" rx="6" fill="#1b0f2e" stroke="#3b225c" stroke-width="1"/>
+      <text x="12" y="80" class="stat-name">INT [98]</text>
+      <text x="12" y="98" class="stat-val">AI Models &amp; CUDA</text>
+
+      <!-- VIT -->
+      <rect x="184" y="60" width="170" height="48" rx="6" fill="#1b0f2e" stroke="#3b225c" stroke-width="1"/>
+      <text x="196" y="80" class="stat-name">VIT [94]</text>
+      <text x="196" y="98" class="stat-val">Atomic DB &amp; Security</text>
+
+      <!-- LUK -->
+      <rect x="0" y="120" width="354" height="48" rx="6" fill="#1b0f2e" stroke="#3b225c" stroke-width="1"/>
+      <text x="12" y="140" class="stat-name">LUK [99] : SPECIAL BUFF</text>
+      <text x="12" y="158" class="stat-val" fill="#a7f3d0">Fixes production bugs at 2 AM on first try ♡</text>
+    </g>
+
+    <!-- Active Equipment Box -->
+    <g transform="translate(0, 230)">
+      <rect x="0" y="0" width="354" height="85" rx="6" fill="#201135" stroke="#ffb7d5" stroke-width="1"/>
+      <text x="14" y="22" class="lbl" fill="#ffb7d5">EQUIPPED RELICS:</text>
+      <text x="14" y="44" class="val" font-size="12">🗡️ Primary: COLORFUL P15 (12th Gen + RTX 4050)</text>
+      <text x="14" y="62" class="val" font-size="12">🛡️ Shield: Arch Linux + Hyprland (Emperor Lua)</text>
+      <text x="14" y="80" class="val" font-size="12">📜 Grimoire: Neovim, Kitty, TypeScript &amp; Rust</text>
+    </g>
+  </g>
+
+  <!-- Bottom Message Bar -->
+  <g transform="translate(30, 360)">
+    <rect x="0" y="0" width="790" height="42" rx="6" fill="#221133" stroke="#a78bfa" stroke-width="1"/>
+    <text x="20" y="26" class="val" fill="#fbcfe8" font-size="13">
+      "Passionate developer building high-throughput systems, beautiful web UIs, and real-time offline AI." ♡
+    </text>
+  </g>
+</svg>
