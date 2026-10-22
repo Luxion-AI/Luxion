@@ -1,428 +1,368 @@
-# 🎀 MISSION: CREATE THE CUTEST DEVELOPER GITHUB README EVER ฅ(≧ω≦)ฅ
+<!--
+  ♡ LUXION'S KAWAII PIXEL PARADISE ♡
+  Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
+-->
 
-You are an elite GitHub profile designer, Markdown artist, pixel-art enthusiast, and experienced software engineer.
+<div align="center">
 
-Your mission is to **directly create or improve my GitHub profile `README.md` into the CUTEST, MOST UNHINGED, MAXIMUM-KAWAII PIXEL-ART DEVELOPER PROFILE EVER CREATED.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,20:FFC8DD,40:FFD6E7,65:E7C6FF,85:CDB4DB,100:BDE0FE&height=240&section=header&text=%E2%99%A1%20LUXION%20%E2%99%A1&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=%E2%9C%A7%20welcome%20to%20my%20pixel%20dreamland%20%E2%9C%A7&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Luxion's pastel pixel dreamland"/>
 
-Do not just suggest ideas. Do not just show me a template in the chat. Inspect the available project files, identify the correct GitHub profile repository if possible, and actually implement the finished README.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=800&color=FF85B3&center=true&vCenter=true&width=650&height=60&lines=%E2%99%A1+HELLOOO%2C+WORLD!!+%E2%99%A1;%E2%9C%A7+MEOW+MEOW+CODING+TIME+%E2%9C%A7;%E2%99%A1+FULLSTACK+MAGIC+ACTIVATED+%E2%99%A1;%E2%98%81%EF%B8%8F+LOADING+MORE+KAWAII...+%E2%98%81%EF%B8%8F" alt="Kawaii pixel typing animation"/>
 
-## 1. THE CORE VISION 💗
+```text
+      /\_/\
+     ( o.o )    ♡ PLS BE GENTLE ♡
+      > ^ <
+   ╭━━━━━━━━━━━━━━━━━━━━━━╮
+   ┃  WELCOME, CUTIEEE!!  ┃
+   ┃  ☆*:.｡.o(≧▽≦)o.｡.:*☆ ┃
+   ╰━━━━━━━━━━━━━━━━━━━━━━╯
+```
 
-I want my GitHub profile to look like:
+**꒰ა ♡ ໒꒱ FULLSTACK DEVELOPER ꒰ა ♡ ໒꒱**
 
-- A magical pink pixel-art desktop from a cute retro RPG.
-- A kawaii anime girl's personal coding diary.
-- A pink cat-themed operating system interface.
-- A Y2K internet aesthetic mixed with pixel games, Sanrio-inspired cuteness, and nostalgic 2000s web design.
-- A developer's secret digital garden full of cats, bows, sparkles, hearts, strawberries, stars, flowers, and tiny magical creatures.
+`୨୧` Linux Witch · Code Fairy · Pixel Cat Enthusiast `୨୧`
 
-**ABSOLUTELY DO NOT prioritize corporate professionalism, minimalism, or formal presentation over cuteness.**
+<img src="https://img.shields.io/badge/♡%20STATUS-ONLINE%20AND%20ADORABLE-ffb7d5?style=for-the-badge&labelColor=fff0f6" alt="Online status"/> <img src="https://img.shields.io/badge/♡%20CLASS-FULLSTACK%20MAGICIAN-dcc6ff?style=for-the-badge&labelColor=fff0f6" alt="Developer class"/>
 
-I do not care about formality.
+*૮꒰ ˶• ༝ •˶꒱ა ♡*
 
-I WANT MAXIMUM KAWAII.
+**I make the internet a little more magical, one line of code at a time!**
 
-Make it overwhelmingly cute, playful, expressive, colorful, chaotic in a carefully designed way, and full of personality.
+</div>
 
-However, the technical content must still communicate that I am a capable developer who builds real software.
+---
 
-The desired contrast is:
+<div align="center">
 
-**OUTSIDE:** `૮꒰ ˶• ༝ •˶꒱ა ♡ PINK CAT PARADISE ♡`
+## 🎀 ୨୧ MY TINY LITTLE UNIVERSE ୨୧ 🎀
 
-**INSIDE:** Full-stack engineering, databases, APIs, Linux, system architecture, AI experiments, deployment, and actual projects.
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="190" alt="Coding cat"/>
 
-Think of a highly capable engineer whose entire digital world has been taken over by a kawaii pixel cat.
+</div>
 
-## 2. MY DEVELOPER IDENTITY 💻
+```text
+╭─────────────── ♡ ───────────────╮
+       ✧ CHARACTER PROFILE ✧
+╞═════════════════════════════════╡
+  ♡ NAME     : Luxion
+  ♡ CLASS    : Fullstack Developer
+  ♡ GUILD    : ACPTeam Development
+  ♡ HOME     : Arch Linux + Hyprland
+  ♡ PASSION  : Making cool things
+  ♡ MANA     : Unlimited curiosity
+  ♡ WEAKNESS : Bugs at 3 AM
+  ♡ FAVORITE : Pink pixels & clean code
+╰─────────────── ♡ ───────────────╯
+```
 
-Use the following information as the foundation of my profile:
+Hewwooo!! I'm Luxion, a student developer who loves building useful digital products, exploring Linux, experimenting with AI, and making technology more delightful! ฅ(˶ᵔ ᵕ ᵔ˶)ฅ
 
-- Alias: Luxion
-- Role: Full-stack developer and team leader
-- Organization: ACPTeam Development
-- Student developer from SMK Negeri 1 Purbalingga, Indonesia
-- Interests: Web development, backend engineering, frontend design, databases, Linux, open source, AI agents, local LLMs, cybersecurity, game development, hardware experimentation, and creative coding.
-- Development environment: Arch Linux and Hyprland.
-- Laptop: COLORFUL P15 23, Intel Core i5 12th generation, NVIDIA RTX 4050 Laptop GPU.
-- Development style: I use AI coding agents as tools, but I care about understanding, building, experimenting, and improving actual software.
+I enjoy working across the full development stack: from designing cute interfaces to implementing backend logic, connecting databases, and figuring out how everything runs in production.
 
-Do not make my student identity the main focus. My identity as a developer and technical experimenter should take center stage.
+**My mission?** Build software that is adorable on the outside, thoughtfully engineered on the inside, and genuinely useful to the people who use it. 💗
 
-Do not invent professional experience, awards, expertise levels, achievements, production deployments, project URLs, or contributions that have not been verified.
+`♡` Web applications & digital ecosystems
 
-## 3. PIXEL-ART AESTHETIC: NO COMPROMISE 🎮
+`♡` Backend APIs & database design
 
-Make pixel art the dominant visual language throughout the README.
+`♡` Linux, open source & system tinkering
 
-### Color palette
+`♡` AI agents & local AI experiments
 
-Use a coordinated palette such as:
+`♡` Browser games & interactive experiences
 
-- Cotton candy pink: `#FFB7D5`
-- Strawberry milk: `#FFC8DD`
-- Lavender dream: `#DCC6FF`
-- Powder blue: `#BDE0FE`
-- Cream white: `#FFF8FC`
-- Dark plum: `#35243F`
-- Berry pink: `#E879AC`
+---
 
-Use dark plum or another readable dark color for text on light backgrounds.
+<div align="center">
 
-Pink and lavender should dominate. Blue should be a secondary accent.
+## 🍓 ୨୧ MY SKILL BENTO ୨୧ 🍓
 
-### Visual elements
+*Tiny icons, serious engineering! (๑˃ᴗ˂)ﻭ*
 
-Use as many of these as appropriate:
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB7D5&height=3" width="85%" alt="Pink divider"/>
 
-- Pixel cats and kittens.
-- Pixel bows and ribbons.
-- Pixel hearts and sparkles.
-- Pixel strawberries, flowers, clouds, stars, and mushrooms.
-- Retro desktop windows.
-- Fake operating system dialogs.
-- Pixel-art terminal windows.
-- Cute loading bars and progress indicators.
-- RPG character sheets.
-- Inventory menus and skill trees.
-- Achievement notifications.
-- Quest boards.
-- Tiny ASCII pets.
-- Retro computer interfaces.
-- Pixel dividers and decorative borders.
-- Cute animated GIFs.
-- Pixel-art banners.
-- Retro status panels.
-- Kawaii badge collections.
-- Nostalgic internet graphics.
+### 🎀 FRONTEND FAIRY
 
-Use decorative text such as:
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=light" alt="Frontend skill icons"/>
 
-`꒰ა ♡ ໒꒱`
+`HTML` ♡ `CSS` ♡ `JavaScript` ♡ `TypeScript`
 
-`૮꒰ ˶• ༝ •˶꒱ა`
+`React` ♡ `Next.js` ♡ `Tailwind CSS` ♡ `Vite`
 
-`₊˚⊹♡`
+*Making pixels dance and interfaces sparkle!* ✨
 
-`୨୧`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DCC6FF&height=3" width="85%" alt="Lavender divider"/>
 
-`₍^. .^₎⟆`
+### 🧁 BACKEND ALCHEMIST
 
-`(づ｡◕‿‿◕｡)づ`
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,postgres,mysql,sqlite&theme=light" alt="Backend and database skill icons"/>
 
-`ฅ^•ﻌ•^ฅ`
+`PHP` ♡ `Node.js` ♡ `Python`
 
-`✧･ﾟ: *✧･ﾟ:*`
+`PostgreSQL` ♡ `MySQL` ♡ `SQLite`
 
-`♡₊˚ 🐾・₊✧`
+*Turning data into something useful, safely and reliably!* 🪄
 
-Create an aesthetic that feels lovingly handmade rather than assembled from generic GitHub badges.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=BDE0FE&height=3" width="85%" alt="Blue divider"/>
 
-Do not use the same cat ASCII art in every section. Introduce different visual motifs to give the page variety.
+### 🐈‍⬛ LINUX WITCHCRAFT
 
-## 4. DESIGN THE README LIKE AN INTERACTIVE PIXEL WORLD 🌸
+<img src="https://skillicons.dev/icons?i=linux,arch,bash,git,github,docker,neovim&theme=light" alt="Linux and tooling skill icons"/>
 
-Structure the profile as if visitors are exploring my personal RPG world.
+`Arch Linux` ♡ `Bash` ♡ `Git`
 
-Potential sections include:
+`GitHub` ♡ `Docker` ♡ `Neovim`
 
-### A. Magical pixel-art splash screen
+*Summoning packages, taming terminals, and debugging the mysterious!* 🌙
 
-The first screen must immediately communicate:
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFC8DD&height=3" width="85%" alt="Pink divider"/>
 
-- Extreme kawaii.
-- Pixel art.
-- My developer identity.
-- A distinctive personal brand.
+### 🤖 CYBER FAIRY LAB
 
-Create a custom-feeling header with pastel gradients, cute typography, animated text, pixel decorations, and a memorable tagline.
+<img src="https://skillicons.dev/icons?i=python,tensorflow,blender,unity&theme=light" alt="AI and creative exploration icons"/>
 
-Possible taglines:
+`AI Experiments` ♡ `Local LLMs`
 
-- "cute pixels, dangerous amounts of code ♡"
-- "nyaa~ compiling another universe!"
-- "powered by cats, caffeine, and curiosity"
-- "building software & collecting pixel hearts"
-- "my code is serious, my desktop is not"
-- "100% developer, 1000% silly"
+`Game Development` ♡ `Creative Coding`
 
-Choose something better if inspiration strikes.
+*Researching new spells for the future of technology!* 💫
 
-### B. The kawaii developer profile
+</div>
 
-Present me as a character in a cute RPG.
+---
 
-Include a character profile containing my alias, role, guild, favorite environment, interests, and current development focus.
+<div align="center">
 
-Make it visually adorable using retro text panels, pixel-inspired borders, and playful labels.
+## 🐾 ୨୧ MY QUEST BOARD ୨୧ 🐾
 
-### C. The skill tree
+*Every project is a new adventure!*
 
-Show my technical abilities in a visually appealing game-style skill tree.
+</div>
 
-Organize technologies into meaningful groups:
+<table>
+<tr>
+<td align="center" width="50%">
 
-- Frontend engineering.
-- Backend engineering.
-- Databases and data management.
-- Linux and system tooling.
-- DevOps and deployment.
-- AI and automation.
-- Game development and creative coding.
+### 🌷 QUEST 01
 
-Use technology icons where appropriate, but do not merely dump dozens of badges without context.
+**SCHOOL DIGITAL WORLD**
 
-Distinguish between technologies I actively use, technologies I have experimented with, and areas I am still learning.
+`[ WEB APPLICATION ]`
 
-Do not falsely claim mastery.
+A connected digital ecosystem for school communities, with student services, administrative workflows, and better user experiences.
 
-### D. The project quest board
+`UI/UX` ♡ `Fullstack` ♡ `Systems`
 
-This is one of the most important sections.
+**♡ RANK: SYSTEM BUILDER ♡**
 
-Find my actual repositories if repository access is available. Inspect their README files, source code, descriptions, and implementation details to identify projects worth showcasing.
+</td>
+<td align="center" width="50%">
 
-For each real project, communicate:
+### 📚 QUEST 02
 
-- What problem it solves.
-- What I built.
-- The relevant technology stack.
-- The interesting engineering decisions.
-- A working repository or demo link when verified.
+**MAGICAL DIGITAL LIBRARY**
 
-Design each project card like a quest in a cute pixel RPG.
+`[ EDUCATION TECH ]`
 
-Use playful titles, pastel decorations, pixel-themed labels, and adorable status indicators.
+A student-friendly reading platform for educational documents, digital resources, and content management.
 
-Do not invent project repositories or pretend conceptual ideas are completed products.
+`PHP` ♡ `PostgreSQL` ♡ `JavaScript`
 
-Prioritize evidence of actual engineering ability over the number of showcased projects.
+**♡ RANK: KNOWLEDGE KEEPER ♡**
 
-### E. The pink hacker desktop
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-Create a fictional desktop interface using Markdown-compatible techniques.
+### 🪄 QUEST 03
 
-Possible elements:
+**LUXION AI**
 
-- `[📁] projects`
-- `[🖥️] terminal`
-- `[🐈] pixel pet`
-- `[🗃️] databases`
-- `[🤖] AI laboratory`
-- `[🎮] game room`
+`[ PERSONAL AI AGENT ]`
 
-Give the interface a cute retro-computer atmosphere.
+An experimental personal assistant exploring local AI, voice interaction, computer automation, and intelligent workflows.
 
-Use real project links where possible.
+`Python` ♡ `Local LLMs` ♡ `Linux`
 
-### F. The developer workstation
+**♡ RANK: CYBER WIZARD ♡**
 
-Show that I genuinely enjoy technical experimentation.
+</td>
+<td align="center" width="50%">
 
-Include my Arch Linux and Hyprland environment, terminal-oriented workflow, Git, database tools, and development interests.
+### 🎮 QUEST 04
 
-Make it resemble an adorable pixel computer configuration screen.
+**PIXEL GAME LAB**
 
-Avoid suggesting that hardware specifications are professional accomplishments.
+`[ GAME DEVELOPMENT ]`
 
-### G. GitHub statistics as a candy arcade
+Small browser games with retro visuals, responsive controls, thoughtful mechanics, and a lot of pixel love.
 
-If external statistics services work, integrate them into a playful arcade or collection screen.
+`HTML` ♡ `CSS` ♡ `Vanilla JS`
 
-Potential widgets:
+**♡ RANK: PIXEL ENCHANTER ♡**
 
-- GitHub contribution statistics.
-- Programming language statistics.
-- Contribution streak.
-- Contribution activity graph.
-- Profile visitor counter.
+</td>
+</tr>
+</table>
 
-Use pastel or dark-pink themes with coordinated borders and colors.
+<div align="center">
 
-Verify the correct URLs and parameters when possible.
+`☆ QUESTS ARE PROJECT DIRECTIONS — LINK YOUR REAL REPOSITORIES HERE ☆`
 
-Do not fabricate statistics.
+</div>
 
-If a service is broken, unreliable, or unnecessary, replace it with a more robust alternative.
+---
 
-### H. Virtual pixel pet
+<div align="center">
 
-Create an adorable mascot that represents my developer personality.
+## 🍰 ୨୧ MY DEVELOPER DESKTOP ୨୧ 🍰
 
-It could be a pixel cat, cyber kitten, magical bunny, or coding creature.
+*Welcome to my little pink computer!*
 
-Give it playful status indicators, such as:
+</div>
 
-- Curiosity.
-- Coding energy.
-- Debugging power.
-- Coffee level.
-- Kawaii level.
+```text
+╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+┃  ♡ LUXION OS — PIXEL DESKTOP ♡   ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                  ┃
+┃   [📁] Projects     [💾] Database┃
+┃                                  ┃
+┃   [🌐] Browser      [⚙️] Terminal┃
+┃                                  ┃
+┃   [🤖] AI Lab       [🎮] Games   ┃
+┃                                  ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃  ♡ ARCH LINUX · HYPRLAND ♡       ┃
+┃  STATUS: READY TO BUILD!          ┃
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+```
 
-These can be fictional decorative stats, but clearly present them as playful rather than actual measurements.
+```bash
+$ whoami
+luxion
 
-### I. Coding philosophy
+$ cat /etc/motd
+♡ welcome home, little developer ♡
 
-Express real engineering principles in an entertaining way.
+$ git status
+On branch: building-the-future
+Working tree: full of possibilities
 
-For example:
+$ npm run build
+✨ turning ideas into reality...
+```
 
-- Cute UI, clean architecture.
-- Less bloat, more purpose.
-- Secure by design, adorable by default.
-- Performance is a feature.
-- Real projects over empty promises.
-- Understand the code, don't just generate it.
-- Build things people actually want to use.
+My development environment is part of my playground. I enjoy customizing Linux, learning the tools beneath the surface, optimizing workflows, and exploring how hardware and software work together.
 
-Avoid turning this section into a boring corporate manifesto.
+**Cute desktop, powerful workflow.** That's the dream. (˶˃ ᵕ ˂˶)
 
-### J. Contact and farewell
+---
 
-End with a spectacular kawaii finale.
+<div align="center">
 
-Use pastel pixel decorations, adorable ASCII characters, links to verified profiles, and a playful message to visitors.
+## 💗 ୨୧ THE GITHUB CANDY ARCADE ୨୧ 💗
 
-The last section should feel like completing a cute retro game.
+*Collect commits, level up, and grow your garden!*
 
-## 5. TECHNICAL QUALITY REQUIREMENTS ⚙️
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=omni&hide_border=true&rank_icon=github" width="95%" alt="GitHub stats"/>
 
-The README must remain a valid, GitHub-compatible Markdown document.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=omni&hide_border=true&langs_count=8" width="80%" alt="Programming language stats"/>
 
-Use:
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=omni&hide_border=true" width="95%" alt="GitHub streak stats"/>
 
-- Standard GitHub Flavored Markdown.
-- HTML supported by GitHub README rendering.
-- External SVGs and GIFs where appropriate.
-- Technology icons from a reliable icon service when available.
-- Animated assets sparingly enough to avoid making the page unusable.
-- ASCII art and Unicode decorations.
-- Readable code blocks and properly structured sections.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=fff0f6&color=d65b91&line=c084fc&point=ff85b3&area=true&hide_border=true" width="100%" alt="GitHub activity garden"/>
 
-Remember that GitHub sanitizes HTML and does not allow arbitrary custom CSS or JavaScript in README files.
+</div>
 
-Do not pretend the README supports a real interactive desktop, functioning buttons, or actual game mechanics unless those features are implemented elsewhere.
+---
 
-Simulate interactive-looking elements through decorative layouts instead.
+<div align="center">
 
-Do not embed scripts, iframes, unsafe HTML, or broken image URLs.
+## 🧸 ୨୧ THE TINY PIXEL PET ୨୧ 🧸
 
-Every image must have meaningful alt text.
+*Your friendly neighborhood debugging cat!*
 
-Use a mixture of image banners, badges, text panels, code blocks, and actual project information.
+```text
+            /\_/\
+           / o o \
+          (   "   )
+           \~♡♡♡~/
+          /|     |\
+         (_|     |_)
+           |_____| 
+          /_______\
 
-Avoid making the entire README one enormous wall of text.
+     ♡ meow! another bug defeated ♡
+```
 
-Make it visually rich without making it exhausting to navigate.
+</div>
 
-## 6. VISUAL DESIGN RULES 🎀
+```text
+╭──────────── PIXEL PET STATUS ────────────╮
+│                                         │
+│  HAPPINESS  [♥♥♥♥♥♥♥♥♥♥] MAXIMUM        │
+│  CURIOSITY  [♥♥♥♥♥♥♥♥♥♥] MAXIMUM        │
+│  DEBUGGING  [♥♥♥♥♥♥♥♥♥░] LOADING...     │
+│  COFFEE     [♥♥♥♥♥♥♥░░░] NEED REFILL    │
+│                                         │
+│  SPECIAL MOVE: git commit -m "meow"     │
+╰─────────────────────────────────────────╯
+```
 
-The result must NOT look like a typical developer README with a pink banner pasted on top.
+---
 
-Avoid:
+<div align="center">
 
-- Generic profile templates.
-- Excessive identical badges.
-- Repetitive sections.
-- Plain corporate tables dominating the entire page.
-- Overly formal language.
-- Generic inspirational quotes.
-- Unnecessary walls of text.
-- Fake achievement claims.
-- Fake project links.
-- Broken animations.
-- Random unrelated imagery.
-- Inconsistent visual styles.
-- Too much visual noise that destroys readability.
+## 🎀 ୨୧ MY CODING SPELLBOOK ୨୧ 🎀
 
-Instead, build a cohesive personal visual identity.
+```text
+♡ clean code over clever chaos
+♡ good architecture over quick patches
+♡ security over shortcuts
+♡ performance over unnecessary bloat
+♡ real projects over empty promises
+♡ curiosity over fear of the unknown
+```
 
-Every section should feel like it belongs to the same kawaii pixel-art universe.
+**I want my software to be as thoughtful as it is beautiful.**
 
-The page should be so cute that visitors immediately recognize it as mine.
+The pink pixels are just the wrapping. The engineering is the gift. 💝
 
-But when recruiters, fellow developers, or technical judges inspect it, they should still discover genuine technical substance.
+---
 
-## 7. RESEARCH AND ASSET SELECTION 🔎
+## 💌 ୨୧ LET'S BE INTERNET FRIENDS! ୨୧ 💌
 
-If web browsing is available, investigate suitable assets and verify the URLs before using them.
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-FFB7D5?style=for-the-badge&logo=github&logoColor=6D3B55" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-DCC6FF?style=for-the-badge&logo=linkedin&logoColor=6D3B55" alt="LinkedIn"/>
+</a>
 
-Look for:
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=FFB7D5&label=VISITORS%20♡" alt="Profile visitors"/>
 
-- Cute pixel cats.
-- Pastel pixel-art dividers.
-- Retro computer graphics.
-- Pixel hearts and decorative GIFs.
-- Suitable animated banners.
-- Reliable GitHub statistics and icon services.
+```text
+╭──────────────────────────────────╮
+│                                  │
+│   THANK YOU FOR VISITING!! ♡     │
+│                                  │
+│   (づ｡◕‿‿◕｡)づ ♡ HUGS FOR YOU ♡  │
+│                                  │
+│   YOU ARE A RARE DROP! ✧         │
+│   +9999 KAWAII POINTS             │
+│                                  │
+│   [ CONTINUE YOUR ADVENTURE ]    │
+│                                  │
+╰──────────────────────────────────╯
+```
 
-Prefer assets that are cohesive, lightweight, and appropriate for a developer portfolio.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,30:FFC8DD,60:E7C6FF,100:BDE0FE&height=170&section=footer&text=%E2%99%A1%20stay%20cute%2C%20keep%20coding%20%E2%99%A1&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Kawaii pixel dreamland footer"/>
 
-Do not assume an asset URL works merely because it looks plausible.
+<sub>♡ handcrafted with love, logic, terminal commands, and approximately one million imaginary pink hearts ♡</sub>
 
-If an asset cannot be verified, choose a simpler alternative.
+**おつかれさま！ (｡˃ ᵕ ˂ )ﾉﾞ** 🎀
 
-Do not copy an entire existing creator's profile. Develop a distinctive visual identity for Luxion.
-
-## 8. IMPLEMENTATION WORKFLOW
-
-Follow this workflow:
-
-1. Inspect the current workspace and identify whether a GitHub profile repository or an existing `README.md` is available.
-2. Read the existing README and preserve useful personal information and verified project links.
-3. Inspect available repository information and identify authentic projects worth featuring.
-4. Develop the visual concept before implementing the complete Markdown.
-5. Create or update the actual `README.md`.
-6. Validate Markdown structure, image URLs where possible, usernames, links, and section consistency.
-7. Check that the README works with GitHub's rendering limitations.
-8. Remove placeholder URLs wherever the required real information is available.
-9. Keep placeholders only for information that cannot be verified.
-10. Report the file changed, the design decisions made, and any remaining manual configuration.
-
-Do not delete unrelated files.
-
-Do not publish, push, or modify remote repositories without explicit authorization.
-
-If no repository is available in the workspace, create a standalone `README.md` in the current workspace rather than stopping at a conceptual response.
-
-## 9. ACCEPTANCE CRITERIA
-
-The finished result must satisfy all of these:
-
-- [ ] Maximum kawaii aesthetic.
-- [ ] Dominant pastel pink, lavender, and pixel-art visuals.
-- [ ] Multiple cute pixel motifs, not just one banner.
-- [ ] Distinctive personal identity for Luxion.
-- [ ] Developer skills presented in a meaningful structure.
-- [ ] Real projects showcased when available.
-- [ ] Authentic engineering interests and development environment.
-- [ ] Functional, verified links wherever possible.
-- [ ] GitHub-compatible Markdown and HTML.
-- [ ] No fabricated credentials, achievements, or project URLs.
-- [ ] No unnecessary corporate formality.
-- [ ] Readable and maintainable Markdown source.
-- [ ] Actual file implementation, not just recommendations.
-
-## FINAL CREATIVE DIRECTION
-
-Do not play it safe.
-
-Do not reduce the cuteness just because the profile is about software engineering.
-
-**I WANT THE CUTEST, MOST PINK, MOST PIXELATED, MOST PERSONAL GITHUB README YOU CAN CREATE WHILE STILL SHOWING THAT I AM A SERIOUS, CAPABLE DEVELOPER.**
-
-Make it feel like:
-
-A pink pixel cat owns a magical computer, runs Arch Linux, builds full-stack applications, experiments with AI, debugs APIs at midnight, and decorates every commit with tiny hearts.
-
-The README should make visitors think:
-
-"WHAT IS THIS ADORABLE LITTLE DIGITAL WORLD?!"
-
-And then, after exploring the projects:
-
-"WAIT. THIS PERSON ACTUALLY BUILDS COOL SOFTWARE."
-
-Now inspect the workspace and create the finished README.md.
-
-**NYAA~ LET'S MAKE THE INTERNET CUTER. ฅ(˶> ᵕ <˶)ฅ ♡🎀**
+</div>
